@@ -21,5 +21,3 @@ echo = nonebot.on_command("echo", priority=5, block=True)
 async def echo_handler(args: Message=CommandArg()):
     content = args.extract_plain_text()
     await echo.finish(content)
-    
-
