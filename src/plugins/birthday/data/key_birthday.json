@@ -1,9 +1,37 @@
 {
+    "1-3": [
+        {
+            "cha_name": "雾岛圣",
+            "game_name": "AIR",
+            "img_path": ["雾岛圣.jpg"],
+            "cv": "冬马由美",
+            "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": "172cm 87/59/86",
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "麻枝准",
+            "game_name": "Key",
+            "img_path": ["麻枝准.png"],
+            "cv": "麻枝准",
+            "staff": "麻枝准",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
     "1-6": [
         {
             "cha_name": "泽渡真琴",
             "game_name": "Kanon",
-            "img_path": [],
+            "img_path": ["泽渡真琴.jpeg"],
             "cv": "飯塚雅弓",
             "staff": "樋上いたる",
             "tag": null,
@@ -18,7 +46,7 @@
         {
             "cha_name": "月宫亚由",
             "game_name": "Kanon",
-            "img_path": [],
+            "img_path": ["月宫亚由.jpeg"],
             "cv": "堀江由衣",
             "staff": "樋上いたる",
             "tag": null,
@@ -32,9 +60,24 @@
     "1-17": [
         {
             "cha_name": "直枝理树",
-            "game_name": "Little Busters! ",
-            "img_path": [],
+            "game_name": "Little Busters!",
+            "img_path": ["直枝理树.jpeg"],
             "cv": "民安ともえ",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "1-23": [
+        {
+            "cha_name": "露娜Q",
+            "game_name": "LUNARiA!",
+            "img_path": ["露娜Q.png"],
+            "cv": "田中美海",
             "staff": null,
             "tag": null,
             "company_name": "Key",
@@ -48,7 +91,7 @@
         {
             "cha_name": "川澄舞",
             "game_name": "Kanon",
-            "img_path": [],
+            "img_path": ["川澄舞.jpeg"],
             "cv": "田村ゆかり",
             "staff": "樋上いたる",
             "tag": null,
@@ -63,7 +106,7 @@
         {
             "cha_name": "美坂栞",
             "game_name": "Kanon",
-            "img_path": [],
+            "img_path": ["美坂栞.jpeg"],
             "cv": "小西寛子",
             "staff": "樋上いたる",
             "tag": null,
@@ -78,7 +121,7 @@
         {
             "cha_name": "野村美希",
             "game_name": "Summer Pockets",
-            "img_path": [],
+            "img_path": ["野村美希.png"],
             "cv": "一宮朔",
             "staff": "ふむゆん",
             "tag": null,
@@ -106,7 +149,7 @@
         {
             "cha_name": "千里朱音",
             "game_name": "Rewrite",
-            "img_path": [],
+            "img_path": ["千里朱音.png"],
             "cv": "喜多村英梨",
             "staff": "樋上いたる",
             "tag": null,
@@ -117,13 +160,43 @@
             "others": null
         }
     ],
+    "3-6": [
+        {
+            "cha_name": "井上晶",
+            "game_name": "Rewrite",
+            "img_path": ["井上晶.png"],
+            "cv": "渡边佳美",
+            "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
     "3-13": [
         {
             "cha_name": "来谷唯湖",
             "game_name": "Little Busters!",
-            "img_path": [],
+            "img_path": ["来谷唯湖.png"],
             "cv": "田中涼子",
             "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "3-25": [
+        {
+            "cha_name": "有月椎菜",
+            "game_name": "Kud Wafter",
+            "img_path": ["有月椎菜.jpeg"],
+            "cv": null,
+            "staff": null,
             "tag": null,
             "company_name": "VISUAL ARTS / Key",
             "like": null,
@@ -147,11 +220,41 @@
             "others": null
         }
     ],
+    "4-1": [
+        {
+            "cha_name": "阿酱前辈",
+            "game_name": "Little Busters! EX",
+            "img_path": ["阿酱前辈.jpeg"],
+            "cv": "平井理子",
+            "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "4-2": [
+        {
+            "cha_name": "藤川美亚",
+            "game_name": "LOOPERS",
+            "img_path": ["藤川美亚.png"],
+            "cv": "金子彩花",
+            "staff": "null",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
     "4-3": [
         {
             "cha_name": "相乐美佐枝",
             "game_name": "CLANNAD",
-            "img_path": [],
+            "img_path": ["相乐美佐枝.jpeg"],
             "cv": "ゆきのさつき",
             "staff": "樋上いたる",
             "tag": null,
@@ -166,7 +269,7 @@
         {
             "cha_name": "久岛鸥",
             "game_name": "Summer Pockets",
-            "img_path": [],
+            "img_path": ["久岛鸥.jpeg"],
             "cv": "嶺内ともみ",
             "staff": "Na-Ga",
             "tag": null,
@@ -181,7 +284,7 @@
         {
             "cha_name": "神北小毬",
             "game_name": "Little Busters!",
-            "img_path": [],
+            "img_path": ["神北小毬.jpeg"],
             "cv": "やなせなつみ",
             "staff": "樋上いたる",
             "tag": null,
@@ -196,7 +299,7 @@
         {
             "cha_name": "水织静久",
             "game_name": "Summer Pockets",
-            "img_path": [],
+            "img_path": ["水织静久.png"],
             "cv": "小山さほみ",
             "staff": "永山ゆうのん",
             "tag": null,
@@ -241,9 +344,24 @@
         {
             "cha_name": "仓田佐祐理",
             "game_name": "Kanon",
-            "img_path": [],
+            "img_path": ["仓田佐祐理.jpeg"],
             "cv": "川上とも子",
             "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "5-11": [
+        {
+            "cha_name": "友利奈绪",
+            "game_name": "Charlotte",
+            "img_path": ["友利奈绪.jpeg"],
+            "cv": "佐仓绫音",
+            "staff": "Na-Ga",
             "tag": null,
             "company_name": "Key",
             "like": null,
@@ -256,7 +374,7 @@
         {
             "cha_name": "一之濑琴美",
             "game_name": "CLANNAD",
-            "img_path": [],
+            "img_path": ["一之濑琴美.jpeg"],
             "cv": "能登麻美子",
             "staff": "樋上いたる",
             "tag": null,
@@ -306,7 +424,7 @@
             "cha_name": "鸣濑白羽",
             "game_name": "Summer Pockets",
             "img_path": [
-                "鸣濑白羽.JPG"
+                "鸣濑白羽.jpeg"
             ],
             "cv": "小原好美",
             "staff": "Na-Ga",
@@ -323,7 +441,7 @@
             "cha_name": "春原芽衣",
             "game_name": "CLANNAD",
             "img_path": [
-                "春原芽衣.JPG"
+                "春原芽衣.jpeg"
             ],
             "cv": "田村ゆかり",
             "staff": "樋上いたる",
@@ -337,10 +455,10 @@
     ],
     "6-12": [
         {
-            "cha_name": "能美·库特莉亚芙卡",
+            "cha_name": "能美库特莉亚芙卡",
             "game_name": "Little Busters!",
             "img_path": [
-                "能美·库特莉亚芙卡.JPG"
+                "能美库特莉亚芙卡.jpeg"
             ],
             "cv": "若林直美",
             "staff": "Na-Ga",
@@ -355,7 +473,7 @@
             "cha_name": "雾岛佳乃",
             "game_name": "AIR",
             "img_path": [
-                "雾岛佳乃.JPG"
+                "雾岛佳乃.jpeg"
             ],
             "cv": "岡本麻見",
             "staff": "樋上いたる",
@@ -372,7 +490,7 @@
             "cha_name": "志麻子",
             "game_name": "Rewrite",
             "img_path": [
-                "志麻子.JPG"
+                "志麻子.jpeg"
             ],
             "cv": "渡邉佳美",
             "staff": "樋上いたる",
@@ -389,7 +507,7 @@
             "cha_name": "中津静流",
             "game_name": "Rewrite",
             "img_path": [
-                "中津静流.JPG"
+                "中津静流.png"
             ],
             "cv": "すずきけいこ",
             "staff": "樋上いたる",
@@ -406,7 +524,7 @@
             "cha_name": "神山识",
             "game_name": "Summer Pockets REFLECTION BLUE",
             "img_path": [
-                "神山识.JPG"
+                "神山识.png"
             ],
             "cv": "ファイルーズあい",
             "staff": "ふむゆん",
@@ -423,7 +541,7 @@
             "cha_name": "西九条灯花",
             "game_name": "Rewrite",
             "img_path": [
-                "西九条灯花.JPG"
+                "西九条灯花.jpeg"
             ],
             "cv": "田中涼子",
             "staff": "樋上いたる",
@@ -457,7 +575,7 @@
             "cha_name": "伊吹风子",
             "game_name": "CLANNAD",
             "img_path": [
-                "伊吹风子.JPG"
+                "伊吹风子.jpeg"
             ],
             "cv": "野中藍",
             "staff": "樋上いたる",
@@ -489,7 +607,7 @@
             "cha_name": "神尾观铃",
             "game_name": "AIR",
             "img_path": [
-                "神尾观铃.JPG"
+                "神尾观铃.jpeg"
             ],
             "cv": "川上とも子",
             "staff": "樋上いたる",
@@ -506,7 +624,7 @@
             "cha_name": "神户小鸟",
             "game_name": "Rewrite",
             "img_path": [
-                "神户小鸟.JPG"
+                "神户小鸟.jpeg"
             ],
             "cv": "斎藤千和",
             "staff": "樋上いたる",
@@ -523,7 +641,7 @@
             "cha_name": "宫泽有纪宁",
             "game_name": "CLANNAD",
             "img_path": [
-                "宫泽有纪宁.JPG"
+                "宫泽有纪宁.jpeg"
             ],
             "cv": "榎本温子",
             "staff": "樋上いたる",
@@ -540,7 +658,7 @@
             "cha_name": "西园美鱼",
             "game_name": "Little Busters!",
             "img_path": [
-                "西园美鱼.JPG"
+                "西园美鱼.jpeg"
             ],
             "cv": "河原木志穂",
             "staff": "Na-Ga",
@@ -557,7 +675,7 @@
             "cha_name": "凤千早",
             "game_name": "Rewrite",
             "img_path": [
-                "凤千早.JPG"
+                "凤千早.jpeg"
             ],
             "cv": "篠宮沙弥",
             "staff": "樋上いたる",
@@ -588,10 +706,10 @@
     ],
     "8-31": [
         {
-            "cha_name": "䌷文德斯",
+            "cha_name": "紬文德斯",
             "game_name": "Summer Pockets",
             "img_path": [
-                "䌷文德斯.JPG"
+                "紬文德斯.jpeg"
             ],
             "cv": "岩井映美里",
             "staff": "永山ゆうのん",
@@ -608,7 +726,7 @@
             "cha_name": "加藤羽未",
             "game_name": "Summer Pockets",
             "img_path": [
-                "加藤羽未.JPG"
+                "加藤羽未.jpeg"
             ],
             "cv": "田中あいみ",
             "staff": "Na-Ga",
@@ -625,7 +743,7 @@
             "cha_name": "枣铃",
             "game_name": "Little Busters!",
             "img_path": [
-                "枣铃.JPG"
+                "枣铃.jpeg"
             ],
             "cv": "民安ともえ",
             "staff": "Na-Ga",
@@ -642,7 +760,7 @@
             "cha_name": "藤林杏",
             "game_name": "CLANNAD",
             "img_path": [
-                "藤林杏.JPG"
+                "藤林杏.jpeg"
             ],
             "cv": "広橋涼",
             "staff": "樋上いたる",
@@ -657,7 +775,7 @@
             "cha_name": "藤林椋",
             "game_name": "CLANNAD",
             "img_path": [
-                "藤林椋.JPG"
+                "藤林椋.jpeg"
             ],
             "cv": "神田朱未",
             "staff": "樋上いたる",
@@ -674,7 +792,7 @@
             "cha_name": "昼田贵理子",
             "game_name": "LOOPERS",
             "img_path": [
-                "昼田贵理子.JPG"
+                "昼田贵理子.png"
             ],
             "cv": "河野ひより",
             "staff": "望月けい",
@@ -691,7 +809,7 @@
             "cha_name": "空门苍",
             "game_name": "Summer Pockets",
             "img_path": [
-                "空门苍.JPG"
+                "空门苍.jpeg"
             ],
             "cv": "高森奈津美",
             "staff": "和泉つばす",
@@ -774,8 +892,7 @@
             "cha_name": "二木佳奈多",
             "game_name": "Little Busters!",
             "img_path": [
-                "二木佳奈多.jpg",
-                "二木佳奈多2.jpg"
+                "二木佳奈多.jpeg"
             ],
             "cv": "すずきけいこ",
             "staff": "樋上いたる",
@@ -790,7 +907,7 @@
             "cha_name": "三枝叶留佳",
             "game_name": "Little Busters!",
             "img_path": [
-                "三枝叶留佳.jpg"
+                "三枝叶留佳.jpeg"
             ],
             "cv": null,
             "staff": "樋上いたる",
@@ -806,7 +923,7 @@
         {
             "cha_name": "坂上智代",
             "game_name": "CLANNAD、智代After",
-            "img_path": [],
+            "img_path": ["坂上智代.jpeg"],
             "cv": "桑島法子、田中涼子",
             "staff": "樋上いたる",
             "tag": null,
@@ -821,7 +938,7 @@
         {
             "cha_name": "岬镜子",
             "game_name": "Summer Pockets",
-            "img_path": [],
+            "img_path": ["岬镜子.jpeg"],
             "cv": "高本めぐみ",
             "staff": "ふむゆん",
             "tag": null,
@@ -834,9 +951,9 @@
     ],
     "10-21": [
         {
-            "cha_name": "朱鹭戸沙耶",
+            "cha_name": "朱鹭户沙耶",
             "game_name": "Little Busters! EX",
-            "img_path": [],
+            "img_path": ["朱鹭户沙耶.jpeg"],
             "cv": "櫻井浩美",
             "staff": "Na-Ga",
             "tag": null,
@@ -854,6 +971,21 @@
             "img_path": [],
             "cv": "中村悠一",
             "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "11-1": [
+        {
+            "cha_name": "国见玉",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["国见玉.png"],
+            "cv": "古贺葵",
+            "staff": null,
             "tag": null,
             "company_name": "Key、VISUAL ARTS",
             "like": null,
@@ -882,7 +1014,7 @@
             "cha_name": "笹濑川佐佐美",
             "game_name": "Little Busters! EX",
             "img_path": [
-                "笹濑川佐佐美.JPG"
+                "笹濑川佐佐美.jpeg"
             ],
             "cv": "民安ともえ",
             "staff": null,
@@ -899,7 +1031,7 @@
             "cha_name": "远野美凪",
             "game_name": "AIR",
             "img_path": [
-                "远野美凪.JPG"
+                "远野美凪.jpeg"
             ],
             "cv": "柚木涼香",
             "staff": "樋上いたる",
@@ -916,7 +1048,7 @@
             "cha_name": "水濑名雪",
             "game_name": "Kanon",
             "img_path": [
-                "水濑名雪.JPG"
+                "水濑名雪.jpeg"
             ],
             "cv": "國府田マリ子",
             "staff": "樋上いたる",
@@ -931,7 +1063,7 @@
             "cha_name": "此花露西娅",
             "game_name": "Rewrite",
             "img_path": [
-                "此花露西娅.JPG"
+                "此花露西娅.gif"
             ],
             "cv": "朝樹りさ",
             "staff": "樋上いたる",
@@ -948,12 +1080,346 @@
             "cha_name": "古河渚",
             "game_name": "CLANNAD",
             "img_path": [
-                "古河渚.JPG"
+                "古河渚.jpeg"
             ],
             "cv": "中原麻衣",
             "staff": "樋上いたる",
             "tag": null,
             "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "12-27": [
+        {
+            "cha_name": "西森柚咲",
+            "game_name": "Charlotte",
+            "img_path": ["西森柚咲.png"],
+            "cv": "内田真礼",
+            "staff": "Na-Ga",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "unknown": [
+        {
+            "cha_name": "小满",
+            "game_name": "AIR",
+            "img_path": [
+                "小满.jpeg"
+            ],
+            "cv": "田村由香里",
+            "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "神奈备命",
+            "game_name": "AIR",
+            "img_path": ["神奈备命.jpg"],
+            "cv": "西村千奈美",
+            "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "冈崎汐",
+            "game_name": "CLANNAD",
+            "img_path": ["冈崎汐.jpeg"],
+            "cv": "兴梠里美",
+            "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "篝",
+            "game_name": "Rewrite",
+            "img_path": [
+                "篝.jpeg"
+            ],
+            "cv": "朝樹りさ",
+            "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "亚斯茗",
+            "game_name": "Rewrite",
+            "img_path": [
+                "亚斯茗.jpeg"
+            ],
+            "cv": "朝樹りさ",
+            "staff": "樋上いたる",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "仲村由理",
+            "game_name": "Angel Beats!",
+            "img_path": [
+                "仲村由理.jpeg"
+            ],
+            "cv": "樱井浩美",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "立华奏",
+            "game_name": "Angel Beats!",
+            "img_path": [
+                "立华奏.png"
+            ],
+            "cv": "花泽香菜",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "由依",
+            "game_name": "Angel Beats!",
+            "img_path": [
+                "由依.jpeg"
+            ],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "岩泽雅美",
+            "game_name": "Angel Beats!",
+            "img_path": [
+                "岩泽雅美.jpeg"
+            ],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "入江美雪",
+            "game_name": "Angel Beats!",
+            "img_path": [
+                "入江美雪.jpeg"
+            ],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "关根诗织",
+            "game_name": "Angel Beats!",
+            "img_path": [
+                "关根诗织.jpeg"
+            ],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "乙坂步未",
+            "game_name": "Charlotte",
+            "img_path": ["乙坂步未.jpeg"],
+            "cv": "麻仓桃",
+            "staff": "Na-Ga",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "星野梦美",
+            "game_name": "星之梦",
+            "img_path": ["星野梦美.jpeg"],
+            "cv": "麻仓桃",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "诗音那",
+            "game_name": "Harmonia",
+            "img_path": ["诗音那.jpeg"],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "提比",
+            "game_name": "Harmonia",
+            "img_path": ["提比.jpeg"],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "菲莉娅",
+            "game_name": "星之终途",
+            "img_path": ["菲莉娅.png"],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "佐藤雏",
+            "game_name": "成神之日",
+            "img_path": ["佐藤雏.png"],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "灰樱",
+            "game_name": "天籁人偶",
+            "img_path": ["灰樱.png"],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "土豆",
+            "game_name": "AIR",
+            "img_path": ["土豆.jpeg"],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "乌鸦",
+            "game_name": "AIR",
+            "img_path": ["乌鸦.jpeg"],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "鲷鱼烧",
+            "game_name": "Kanon",
+            "img_path": ["鲷鱼烧.jpeg"],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "海星",
+            "game_name": "CLANNAD",
+            "img_path": ["海星.jpeg"],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "牡丹",
+            "game_name": "CLANNAD",
+            "img_path": ["牡丹.png"],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
             "like": null,
             "age": null,
             "presenter": null,
