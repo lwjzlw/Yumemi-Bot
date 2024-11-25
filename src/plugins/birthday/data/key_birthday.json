@@ -12,17 +12,19 @@
             "age": "172cm 87/59/86",
             "presenter": null,
             "others": null
-        },
+        }
+    ],
+    "1-5": [
         {
-            "cha_name": "麻枝准",
-            "game_name": "Key",
-            "img_path": ["麻枝准.png"],
-            "cv": "麻枝准",
-            "staff": "麻枝准",
-            "tag": null,
+            "cha_name": "桐生美也",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["桐生美也.webp"],
+            "cv": null,
+            "staff": null,
+            "tag": "30G",
             "company_name": "Key",
-            "like": null,
-            "age": null,
+            "like": "日本传统文化、弓道",
+            "age": "156cm",
             "presenter": null,
             "others": null
         }
@@ -38,6 +40,19 @@
             "company_name": "Key",
             "like": null,
             "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "白河结奈",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["白河结奈.webp"],
+            "cv": "花守ゆみり",
+            "staff": null,
+            "tag": "30G",
+            "company_name": "Key",
+            "like": null,
+            "age": "164cm",
             "presenter": null,
             "others": null
         }
@@ -57,12 +72,57 @@
             "others": null
         }
     ],
+    "1-12": [
+        {
+            "cha_name": "直枝架夜",
+            "game_name": "Kud Wafter",
+            "img_path": ["直枝架夜.jpeg"],
+            "cv": "若林直美",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "1-15": [
+        {
+            "cha_name": "水濑莓",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["水濑莓.webp"],
+            "cv": "爱美",
+            "staff": null,
+            "tag": "31B",
+            "company_name": "Key",
+            "like": "棒球、蔬菜棒",
+            "age": "172cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "1-17": [
         {
             "cha_name": "直枝理树",
             "game_name": "Little Busters!",
             "img_path": ["直枝理树.jpeg"],
             "cv": "民安ともえ",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "1-18": [
+        {
+            "cha_name": "伊吹公子",
+            "game_name": "CLANNAD",
+            "img_path": ["伊吹公子.jpeg"],
+            "cv": "皆口裕子",
             "staff": null,
             "tag": null,
             "company_name": "Key",
@@ -83,6 +143,21 @@
             "company_name": "Key",
             "like": null,
             "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "1-26": [
+        {
+            "cha_name": "芙里提卡",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["芙里提卡.webp"],
+            "cv": "小坂井祐莉絵",
+            "staff": null,
+            "tag": "31X",
+            "company_name": "Key",
+            "like": "数学",
+            "age": "131cm",
             "presenter": null,
             "others": null
         }
@@ -132,11 +207,58 @@
             "others": null
         }
     ],
+    "2-7": [
+        {
+            "cha_name": "佐月麻里",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["佐月麻里.webp"],
+            "cv": "宫本侑芽",
+            "staff": null,
+            "tag": "31C",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "150cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "2-9": [
+        {
+            "cha_name": "三谷良一",
+            "game_name": "Summer Pockets",
+            "img_path": ["三谷良一.png"],
+            "cv": "熊谷健太朗",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "175cm/65kg",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "2-14": [
+        {
+            "cha_name": "东城司",
+            "game_name": "Heaven Burns Red",
+            "img_path": [
+                "东城司.webp"
+            ],
+            "cv": "天海由梨奈",
+            "staff": null,
+            "tag": "31A",
+            "company_name": "Key",
+            "like": null,
+            "age": "163cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "2-17": [
         {
             "cha_name": "春原阳平",
             "game_name": "CLANNAD",
-            "img_path": [],
+            "img_path": ["春原阳平.PNG"],
             "cv": "阪口大助",
             "staff": "樋上いたる",
             "tag": null,
@@ -160,6 +282,81 @@
             "others": null
         }
     ],
+    "2-22": [
+        {
+            "cha_name": "神崎阿黛尔海德",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["神崎阿黛尔海德.webp"],
+            "cv": "稗田宁宁",
+            "staff": null,
+            "tag": "31C",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "160cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "2-24": [
+        {
+            "cha_name": "町村玲央奈",
+            "game_name": "LOOPERS",
+            "img_path": ["町村玲央奈.png"],
+            "cv": "井泽诗织",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key、VISUAL ARTS",
+            "like": "调戏昼田",
+            "age": "158cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "2-26": [
+        {
+            "cha_name": "玛丽亚",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["玛丽亚.webp"],
+            "cv": "亚月优音",
+            "staff": null,
+            "tag": "31X",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "170cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "3-4": [
+        {
+            "cha_name": "命吹雪",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["命吹雪.webp"],
+            "cv": "浅见春那",
+            "staff": null,
+            "tag": "31D",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "154cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "3-5": [
+        {
+            "cha_name": "西门贵明",
+            "game_name": "LOOPERS",
+            "img_path": ["西门贵明.webp"],
+            "cv": "木村良平",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "181cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "3-6": [
         {
             "cha_name": "井上晶",
@@ -175,6 +372,7 @@
             "others": null
         }
     ],
+    
     "3-13": [
         {
             "cha_name": "来谷唯湖",
@@ -186,6 +384,36 @@
             "company_name": "VISUAL ARTS / Key",
             "like": null,
             "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "3-18": [
+        {
+            "cha_name": "柊木梢",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["柊木梢.png"],
+            "cv": "小泽亚李",
+            "staff": null,
+            "tag": "31B",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "3-21": [
+        {
+            "cha_name": "小笠原绯雨",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["小笠原绯雨.webp"],
+            "cv": "岭内美海/樱井海亚/田中美海",
+            "staff": null,
+            "tag": "30G",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "138cm",
             "presenter": null,
             "others": null
         }
@@ -203,8 +431,23 @@
             "age": null,
             "presenter": null,
             "others": null
+        },
+       
+        {
+            "cha_name": "华村诗纪",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["华村诗纪.png"],
+            "cv": "时泽香保里",
+            "staff": null,
+            "tag": "31F",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "172cm",
+            "presenter": null,
+            "others": null
         }
     ],
+    
     "3-27": [
         {
             "cha_name": "凤咲夜",
@@ -234,7 +477,22 @@
             "presenter": null,
             "others": null
         }
+        ,
+        {
+            "cha_name": "丰厚弥生",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["丰厚弥生.png"],
+            "cv": "白花恋香",
+            "staff": null,
+            "tag": "31C",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "121cm",
+            "presenter": null,
+            "others": null
+        }
     ],
+    
     "4-2": [
         {
             "cha_name": "藤川美亚",
@@ -295,6 +553,66 @@
             "others": null
         }
     ],
+    "4-8": [
+        {
+            "cha_name": "白虎",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["白虎.png"],
+            "cv": null,
+            "staff": null,
+            "tag": "31B",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "4-13": [
+        {
+            "cha_name": "柳美音",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["柳美音.webp"],
+            "cv": null,
+            "staff": null,
+            "tag": "31F",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "170cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "4-18": [
+        {
+            "cha_name": "北川润",
+            "game_name": "Kanon",
+            "img_path": [],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "4-26": [
+        {
+            "cha_name": "松岗绮罗路",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["松岗绮罗路.webp"],
+            "cv": "小岛ゆい",
+            "staff": null,
+            "tag": "31F",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "150cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "4-29": [
         {
             "cha_name": "水织静久",
@@ -310,11 +628,41 @@
             "others": null
         }
     ],
+    "4-30": [
+        {
+            "cha_name": "宫泽谦吾",
+            "game_name": "Little Busters!",
+            "img_path": ["宫泽谦吾.jpg"],
+            "cv": null,
+            "staff": null,
+            "tag": "Little Busters",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "180cm/72kg",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "5-1": [
+        {
+            "cha_name": "冈崎直幸",
+            "game_name": "CLANNAD",
+            "img_path": ["冈崎直幸.jpg"],
+            "cv": "中博史",
+            "staff": null,
+            "tag": null,
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "170cm/60kg",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "5-2": [
         {
             "cha_name": "天王寺瑚太朗",
             "game_name": "Rewrite",
-            "img_path": [],
+            "img_path": ["天王寺瑚太朗.jpg"],
             "cv": "森田成一",
             "staff": "樋上いたる",
             "tag": null,
@@ -329,7 +677,7 @@
         {
             "cha_name": "枣恭介",
             "game_name": "Little Busters!",
-            "img_path": [],
+            "img_path": ["枣恭介.jpg"],
             "cv": "緑川光",
             "staff": null,
             "tag": null,
@@ -355,6 +703,36 @@
             "others": null
         }
     ],
+    "5-7": [
+        {
+            "cha_name": "夏洛特",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["夏洛特.webp"],
+            "cv": "会泽纱弥",
+            "staff": null,
+            "tag": "31X",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "150cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "5-8": [
+        {
+            "cha_name": "利田美咲",
+            "game_name": "LOOPERS",
+            "img_path": [],
+            "cv": null,
+            "staff": null,
+            "tag": null,
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
     "5-11": [
         {
             "cha_name": "友利奈绪",
@@ -366,6 +744,21 @@
             "company_name": "Key",
             "like": null,
             "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "5-12": [
+        {
+            "cha_name": "室伏理沙",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["室伏理沙.png"],
+            "cv": "中村樱",
+            "staff": null,
+            "tag": "31D",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "168cm",
             "presenter": null,
             "others": null
         }
@@ -390,7 +783,7 @@
             "cha_name": "鹰原羽依里",
             "game_name": "Summer Pockets",
             "img_path": [
-                "鹰原羽依里.JPG"
+                "鹰原羽依里.png"
             ],
             "cv": "千葉翔也",
             "staff": "Na-Ga",
@@ -400,6 +793,21 @@
             "age": "17y、172cm",
             "presenter": "七影、之翼",
             "others": "嗯原版终章都没露脸的工具人……但是能给乒乓球拍回血，真厉害吧。（by 七影"
+        }
+    ],
+    "5-26": [
+        {
+            "cha_name": "石井色叶",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["石井色叶.webp"],
+            "cv": "桑原由気",
+            "staff": null,
+            "tag": "31D",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "156cm",
+            "presenter": null,
+            "others": null
         }
     ],
     "6-6": [
@@ -418,7 +826,22 @@
             "presenter": null,
             "others": null
         }
+        ,
+        {
+            "cha_name": "二阶堂三乡",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["二阶堂三乡.jpg"],
+            "cv": "奈波果林",
+            "staff": null,
+            "tag": "31D",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "163cm",
+            "presenter": null,
+            "others": null
+        }
     ],
+    
     "6-8": [
         {
             "cha_name": "鸣濑白羽",
@@ -517,6 +940,53 @@
             "age": "149cm、B75/W52/H73",
             "presenter": null,
             "others": null
+        },
+       
+        {
+            "cha_name": "藏里见",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["藏里见.webp"],
+            "cv": "井泽美香子",
+            "staff": null,
+            "tag": "30G",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "172cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    
+    "6-24": [
+        {
+            "cha_name": "茅森月歌",
+            "game_name": "Heaven Burns Red",
+            "img_path": [
+                "茅森月歌.png"
+            ],
+            "cv": "楠木ともり/Vo：XAI",
+            "staff": null,
+            "tag": "31A",
+            "company_name": "Key",
+            "like": null,
+            "age": "159cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "6-29": [
+        {
+            "cha_name": "樱庭星罗",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["樱庭星罗.webp"],
+            "cv": "田泽茉纯",
+            "staff": null,
+            "tag": "31C",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "171cm",
+            "presenter": null,
+            "others": null
         }
     ],
     "7-4": [
@@ -532,6 +1002,40 @@
             "company_name": "Key",
             "like": null,
             "age": "14岁、144cm、B73/W54/H74",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "7-7": [
+        {
+            "cha_name": "苍井绘梨花",
+            "game_name": "Heaven Burns Red",
+            "img_path": [
+                "苍井绘梨花.webp"
+            ],
+            "cv": "宫下早纪",
+            "staff": null,
+            "tag": "31B",
+            "company_name": "Key",
+            "like": null,
+            "age": "158cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "7-11": [
+        {
+            "cha_name": "朝仓可怜",
+            "game_name": "Heaven Burns Red",
+            "img_path": [
+                "朝仓可怜.png"
+            ],
+            "cv": "芹泽优/Vo：铃木このみ",
+            "staff": null,
+            "tag": "31A",
+            "company_name": "Key",
+            "like": "垃圾食品、FPS游戏",
+            "age": "158cm",
             "presenter": null,
             "others": null
         }
@@ -602,6 +1106,36 @@
             "others": null
         }
     ],
+    "7-21": [
+        {
+            "cha_name": "平良明",
+            "game_name": "LOOPERS",
+            "img_path": [],
+            "cv": "",
+            "staff": null,
+            "tag": "",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "7-22": [
+        {
+            "cha_name": "天音巫呼",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["天音巫呼.png"],
+            "cv": "宫崎珠子",
+            "staff": null,
+            "tag": "31C",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "129cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "7-23": [
         {
             "cha_name": "神尾观铃",
@@ -636,6 +1170,21 @@
             "others": null
         }
     ],
+    "8-2": [
+        {
+            "cha_name": "卡罗尔利帕",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["卡罗尔利帕.webp"],
+            "cv": "八卷アンナ",
+            "staff": null,
+            "tag": "31X",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "164cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "8-7": [
         {
             "cha_name": "宫泽有纪宁",
@@ -649,6 +1198,21 @@
             "company_name": "Key、VISUAL ARTS",
             "like": null,
             "age": "157cm、45kg",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "8-15": [
+        {
+            "cha_name": "夏目祈",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["夏目祈.webp"],
+            "cv": "筑山苑佳",
+            "staff": null,
+            "tag": "31F",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "154cm",
             "presenter": null,
             "others": null
         }
@@ -687,12 +1251,27 @@
             "others": null
         }
     ],
+    "8-25": [
+        {
+            "cha_name": "山胁邦伊瓦尔",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["山胁邦伊瓦尔.webp"],
+            "cv": "千本木彩花",
+            "staff": null,
+            "tag": "31C",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "156cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "8-27": [
         {
             "cha_name": "幸村俊夫",
             "game_name": "CLANNAD",
             "img_path": [
-                "幸村俊夫.JPG"
+                "幸村俊夫.jpg"
             ],
             "cv": "青野武/多田野曜平",
             "staff": "樋上いたる",
@@ -700,6 +1279,23 @@
             "company_name": "Key、VISUAL ARTS",
             "like": null,
             "age": "162cm、52kg",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "8-29": [
+        {
+            "cha_name": "伊座并杏子",
+            "game_name": "成神之日",
+            "img_path": [
+                "伊座并杏子.jpg"
+            ],
+            "cv": "石川由依",
+            "staff": "",
+            "tag": null,
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "17",
             "presenter": null,
             "others": null
         }
@@ -755,6 +1351,23 @@
             "others": null
         }
     ],
+    "9-6": [
+        {
+            "cha_name": "水濑李",
+            "game_name": "Heaven Burns Red",
+            "img_path": [
+                "水濑李.webp"
+            ],
+            "cv": "小路裕夕",
+            "staff": null,
+            "tag": "31B",
+            "company_name": "Key",
+            "like": null,
+            "age": "154cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "9-9": [
         {
             "cha_name": "藤林杏",
@@ -804,6 +1417,23 @@
             "others": null
         }
     ],
+    "9-17": [
+        {
+            "cha_name": "和泉由希",
+            "game_name": "Heaven Burns Red",
+            "img_path": [
+                "和泉由希.webp"
+            ],
+            "cv": "前川凉子",
+            "staff": null,
+            "tag": "31A",
+            "company_name": "Key",
+            "like": "吐槽",
+            "age": "160cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "9-20": [
         {
             "cha_name": "空门苍",
@@ -824,7 +1454,7 @@
             "cha_name": "空门蓝",
             "game_name": "Summer Pockets",
             "img_path": [
-                "空门蓝.JPG"
+                "空门蓝.jpg"
             ],
             "cv": "高森奈津美",
             "staff": "和泉つばす",
@@ -853,6 +1483,21 @@
             "others": null
         }
     ],
+    "10-1": [
+        {
+            "cha_name": "丸山奏多",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["丸山奏多.webp"],
+            "cv": "河野ひより",
+            "staff": null,
+            "tag": "31F",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "139cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "10-5": [
         {
             "cha_name": "古河早苗",
@@ -870,12 +1515,27 @@
             "others": null
         }
     ],
+    "10-7": [
+        {
+            "cha_name": "艾琳雷顿明",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["艾琳雷顿明.webp"],
+            "cv": "Marika",
+            "staff": null,
+            "tag": "31X",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "143cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "10-10": [
         {
             "cha_name": "加纳天善",
             "game_name": "Summer Pockets",
             "img_path": [
-                "加纳天善.jpg"
+                "加纳天善.png"
             ],
             "cv": "浜田洋平",
             "staff": "Na-Ga",
@@ -962,13 +1622,45 @@
             "age": null,
             "presenter": null,
             "others": null
+        },
+       
+        {
+            "cha_name": "伊达朱里",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["伊达朱里.webp"],
+            "cv": "大野柚布子",
+            "staff": null,
+            "tag": "31D",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "154cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    
+    "10-28": [
+        {
+            "cha_name": "逢川惠",
+            "game_name": "Heaven Burns Red",
+            "img_path": [
+                "逢川惠.jpg"
+            ],
+            "cv": "伊波杏树",
+            "staff": null,
+            "tag": "31A",
+            "company_name": "Key",
+            "like": null,
+            "age": "159cm",
+            "presenter": null,
+            "others": null
         }
     ],
     "10-30": [
         {
             "cha_name": "冈崎朋也",
             "game_name": "CLANNAD",
-            "img_path": [],
+            "img_path": ["冈崎朋也.jpg"],
             "cv": "中村悠一",
             "staff": "樋上いたる",
             "tag": null,
@@ -983,8 +1675,52 @@
         {
             "cha_name": "国见玉",
             "game_name": "Heaven Burns Red",
-            "img_path": ["国见玉.png"],
+            "img_path": ["国见玉.webp","国见玉.png"],
             "cv": "古贺葵",
+            "staff": null,
+            "tag": "31A",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "137cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "11-2": [
+        {
+            "cha_name": "瑞原蓝娜",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["瑞原蓝娜.webp"],
+            "cv": "星谷美绪",
+            "staff": null,
+            "tag": "31D",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "141cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "11-3": [
+        {
+            "cha_name": "神尾晴子",
+            "game_name": "AIR",
+            "img_path": ["神尾晴子.jpg"],
+            "cv": "久川绫",
+            "staff": null,
+            "tag": "",
+            "company_name": "Key、VISUAL ARTS",
+            "like": "喝酒",
+            "age": "168cm/49kg B:88/W:57/H:85 28岁",
+            "presenter": null,
+            "others": null
+        },
+       
+        {
+            "cha_name": "冰室忧希",
+            "game_name": "库特wafter",
+            "img_path": [],
+            "cv": null,
             "staff": null,
             "tag": null,
             "company_name": "Key、VISUAL ARTS",
@@ -994,17 +1730,173 @@
             "others": null
         }
     ],
+    "11-6": [
+        {
+            "cha_name": "井之原真人",
+            "game_name": "Little Busters!",
+            "img_path": ["井之原真人.png"],
+            "cv": "神奈延年",
+            "staff": null,
+            "tag": "Little Busters",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "183cm/80kg",
+            "presenter": null,
+            "others": null
+        }
+    ],
+
     "11-7": [
         {
             "cha_name": "吉野晴彦",
             "game_name": "Rewrite",
-            "img_path": [],
+            "img_path": ["吉野晴彦.png"],
             "cv": "柳田淳一",
             "staff": "樋上いたる",
             "tag": null,
             "company_name": "Key",
             "like": null,
             "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "11-8": [
+        {
+            "cha_name": "樋口圣华",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["樋口圣华.webp"],
+            "cv": "山根绮",
+            "staff": null,
+            "tag": "31B",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "151cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "11-22": [
+        {
+            "cha_name": "黑泽真希",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["黑泽真希.webp"],
+            "cv": "黑濑ゆうこ",
+            "staff": null,
+            "tag": "31F",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "163cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "11-29": [
+        {
+            "cha_name": "大岛一千子",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["大岛一千子.webp"],
+            "cv": "日向葵",
+            "staff": null,
+            "tag": "31E",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "160cm",
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "大岛二以奈",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["大岛二以奈.png"],
+            "cv": "金子彩花",
+            "staff": null,
+            "tag": "31E",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "163cm",
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "大岛三野里",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["大岛三野里.webp"],
+            "cv": "中岛由贵",
+            "staff": null,
+            "tag": "31E",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "158cm",
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "大岛四叶草",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["大岛四叶草.jpg"],
+            "cv": "内山茉莉",
+            "staff": null,
+            "tag": "31E",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "139cm",
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "大岛五十铃",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["大岛五十铃.png"],
+            "cv": "中野さいま",
+            "staff": null,
+            "tag": "31E",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "154cm",
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "大岛六宇亚",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["大岛六宇亚.webp"],
+            "cv": "福嶋美里衣",
+            "staff": null,
+            "tag": "31E",
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "157cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "12-1": [
+        {
+            "cha_name": "月城最中",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["月城最中.webp"],
+            "cv": "松本沙罗",
+            "staff": null,
+            "tag": "30G",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "170cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "12-2": [
+        {
+            "cha_name": "鸣濑小鸠",
+            "game_name": "Summer Pockets",
+            "img_path": ["鸣濑小鸠.png"],
+            "cv": "白石稔",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "185cm/96kg",
             "presenter": null,
             "others": null
         }
@@ -1022,6 +1914,51 @@
             "company_name": "Key、VISUAL ARTS",
             "like": null,
             "age": null,
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "12-5": [
+        {
+            "cha_name": "芳野祐介",
+            "game_name": "CLANNAD",
+            "img_path": ["芳野祐介.jpg"],
+            "cv": "绿川光",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "179cm/63kg",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "12-6": [
+        {
+            "cha_name": "天野美汐",
+            "game_name": "Kanon",
+            "img_path": ["天野美汐.jpg"],
+            "cv": "坂本真绫",
+            "staff": null,
+            "tag": null,
+            "company_name": "Key、VISUAL ARTS",
+            "like": null,
+            "age": "159cm/44kg 80/53/79 16岁",
+            "presenter": null,
+            "others": null
+        }
+    ],
+    "12-14": [
+        {
+            "cha_name": "李映夏",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["李映夏.png"],
+            "cv": "东乡しえり",
+            "staff": null,
+            "tag": "31X",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "158cm",
             "presenter": null,
             "others": null
         }
@@ -1092,6 +2029,21 @@
             "others": null
         }
     ],
+    "12-25": [
+        {
+            "cha_name": "菅原千惠",
+            "game_name": "Heaven Burns Red",
+            "img_path": ["菅原千惠.png"],
+            "cv": "根本京里",
+            "staff": null,
+            "tag": "30G",
+            "company_name": "VISUAL ARTS / Key",
+            "like": null,
+            "age": "152cm",
+            "presenter": null,
+            "others": null
+        }
+    ],
     "12-27": [
         {
             "cha_name": "西森柚咲",
@@ -1099,6 +2051,19 @@
             "img_path": ["西森柚咲.png"],
             "cv": "内田真礼",
             "staff": "Na-Ga",
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "ホリー",
+            "game_name": "LOOPERS",
+            "img_path": [],
+            "cv": null,
+            "staff": null,
             "tag": null,
             "company_name": "Key",
             "like": null,
@@ -1418,6 +2383,19 @@
             "img_path": ["牡丹.png"],
             "cv": null,
             "staff": null,
+            "tag": null,
+            "company_name": "Key",
+            "like": null,
+            "age": null,
+            "presenter": null,
+            "others": null
+        },
+        {
+            "cha_name": "麻枝准",
+            "game_name": "Key",
+            "img_path": ["麻枝准.png"],
+            "cv": "麻枝准",
+            "staff": "麻枝准",
             "tag": null,
             "company_name": "Key",
             "like": null,

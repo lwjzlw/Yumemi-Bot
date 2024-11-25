@@ -1,13 +1,20 @@
 import json
 from datetime import datetime
-def get_today_birthdays(file_path: str) -> str:
+from typing import Tuple, List
+def get_birthdays(file_path: str, month: int=0, day: int=0) -> List[str]:
     """
-    获取今天生日的人的名字
+    获取指定日期生日的人的名字
     :param file_path: JSON 文件路径
-    :return: 今天生日的名字或提示信息
+    :param month: 月
+    :param day: 日
+    :return: 今天过生日的列表
     """
     # 获取今天的日期（格式 MM-DD）
-    today = datetime.now().strftime("%m-%d")
+    if 1 <= month <= 12 and 1 <= day <= 31:
+        date = datetime(2024, month, day)
+    else:
+        date = datetime.now()
+    today = date.strftime("%-m-%-d")
     
     try:
         # 读取 JSON 文件
@@ -26,7 +33,4 @@ def get_today_birthdays(file_path: str) -> str:
                 today_birthdays.append(record.get("cha_name", "未知角色"))
 
     # 返回结果
-    if today_birthdays:
-        return "今天生日的有：\n" + "\n".join(today_birthdays)
-    else:
-        return "今天没有人过生日。"
+    return today_birthdays

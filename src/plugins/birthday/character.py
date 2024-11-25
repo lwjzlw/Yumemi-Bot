@@ -14,6 +14,7 @@ class Character():
         self.staff: str
         self.like: str
         self.age: str
+        self.tag: str
         
     def init(self, json_path: str, image_base_path: str) -> bool:
         try:
@@ -34,6 +35,7 @@ class Character():
         self.staff = cha_data.get("staff", "")
         self.age = cha_data.get("age", "")
         self.like = cha_data.get("like", "")
+        self.tag = cha_data.get("tag", "")
         return True
         
         
