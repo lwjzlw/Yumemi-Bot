@@ -1,6 +1,5 @@
 import json
 from datetime import datetime
-
 def get_today_birthdays(file_path: str) -> str:
     """
     获取今天生日的人的名字
@@ -9,7 +8,7 @@ def get_today_birthdays(file_path: str) -> str:
     """
     # 获取今天的日期（格式 MM-DD）
     today = datetime.now().strftime("%m-%d")
-
+    
     try:
         # 读取 JSON 文件
         with open(file_path, "r", encoding="utf-8") as f:
