@@ -82,10 +82,10 @@ async def _(event: GroupMessageEvent, args: Message=CommandArg()):
     
     msg_list = get_birthday_msg_list(birthday_list)
     if not msg_list:
-        msg_list.append(MessageSegment.at(user_id)+MessageSegment.text(f"{month}月{day}日没有过生日的角色哦！\n"))
+        msg_list.append(MessageSegment.at(user_id)+MessageSegment.text(f"\n{month}月{day}日没有过生日的角色哦！\n"))
      
     else:
-        msg_list.insert(0, MessageSegment.at(user_id)+MessageSegment.text(f"{month}月{day}日过生日的角色有：\n"))
+        msg_list.insert(0, MessageSegment.at(user_id)+MessageSegment.text(f"\n{month}月{day}日过生日的角色有：\n"))
       
     
     for msg in msg_list: 
@@ -93,14 +93,15 @@ async def _(event: GroupMessageEvent, args: Message=CommandArg()):
 
 async def daily_birthday_msg():
     bot = nonebot.get_bot()
-    group_list: List[int] = [943858715]   # TODO: Get all groups and send birthday messages to those in the whitelist.
+    group_list: List[int] = [943858715, 737574359, 496642207]   # TODO: Get all groups and send birthday messages to those in the whitelist.
     
     birthday_characters: List[str] = get_birthdays(config.birthday_file_path)
     
     msg_list = get_birthday_msg_list(birthday_characters)
         
     if not msg_list:
-        msg_list.append(MessageSegment.text("今天没有人过生日哦！（该提醒仅为测试期间使用，测试完成后会删掉）\n"))
+        #msg_list.append(MessageSegment.text("今天没有人过生日哦！（该提醒仅为测试期间使用，测试完成后会删掉）\n"))
+        return
     else:
         msg_list.insert(0, MessageSegment.text("今天过生日的Key社角色如下，让我们祝他们生日快乐吧!\n"))
     
