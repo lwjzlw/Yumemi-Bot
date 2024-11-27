@@ -4,6 +4,7 @@
 1. \#echo: 返回参数
 2. \#chat: 接收prompt作为参数，调用azure openai api，返回回复。只实现了单轮对话。（需要设置环境变量"OPENAI_ENDPOINT" "OPENAI_API_KEY"  "OPENAI_API_VERSION"）
 3. \#今日运势：返回今天的key运势！
+4. \#为保证生日的分组转发正常运行，请在环境变量"QQ_ID"和"QQ_NUMBER"下规定bot的ID和QQ号
 
 
 ## 部署流程：
