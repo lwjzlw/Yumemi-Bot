@@ -118,17 +118,17 @@ async def daily_birthday_msg():
     
     for group_id in group_list:
         birth_node =[]
-    for character_msg in msg_list:
-        birth_node.append(
-                MessageSegment.node_custom(
-                    user_id=os.getenv("QQ_NUMBER"),
-                    nickname=os.getenv("QQ_ID"),
-                    content=character_msg,
-                )
-            )
-        await bot.call_api("send_group_msg", group_id=group_id, message=birth_node)
-        # for msg in msg_list:
-        #     await bot.call_api("send_group_msg", group_id=group_id, message=msg)
+        #for character_msg in msg_list:
+        #    birth_node.append(
+        #            MessageSegment.node_custom(
+        #                user_id=os.getenv("QQ_NUMBER"),
+        #                nickname=os.getenv("QQ_ID"),
+        #                content=character_msg,
+        #            )
+        #        )
+        #    await bot.call_api("send_group_msg", group_id=group_id, message=birth_node)
+        for msg in msg_list:
+            await bot.call_api("send_group_msg", group_id=group_id, message=msg)
     
 
 scheduler.add_job(daily_birthday_msg, "cron", hour=0, minute=0, second=0, id='daily_birthday', timezone=pytz.timezone("Asia/Shanghai"))
