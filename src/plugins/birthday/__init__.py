@@ -10,6 +10,7 @@ from typing import List
 from .character import Character
 import pytz
 from datetime import datetime
+import os
 
 from .config import PluginConfig
 from nonebot.adapters.onebot.v11 import (
@@ -91,8 +92,8 @@ async def _(event: GroupMessageEvent, args: Message=CommandArg()):
     for character_msg in msg_list:
         birth_node.append(
                 MessageSegment.node_custom(
-                    user_id="2544412429",
-                    nickname="星野梦美",
+                    user_id=os.getenv("QQ_NUMBER"),
+                    nickname=os.getenv("QQ_ID"),
                     content=character_msg,
                 )
             )
@@ -120,8 +121,8 @@ async def daily_birthday_msg():
     for character_msg in msg_list:
         birth_node.append(
                 MessageSegment.node_custom(
-                    user_id="2544412429",
-                    nickname="星野梦美",
+                    user_id=os.getenv("QQ_NUMBER"),
+                    nickname=os.getenv("QQ_ID"),
                     content=character_msg,
                 )
             )
