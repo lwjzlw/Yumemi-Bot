@@ -87,19 +87,9 @@ async def _(event: GroupMessageEvent, args: Message=CommandArg()):
     else:
         msg_list.insert(0, MessageSegment.at(user_id)+MessageSegment.text(f"\n{month}月{day}日过生日的角色有：\n"))
       
-    birth_node =[]
-    for character_msg in msg_list:
-        birth_node.append(
-                MessageSegment.node_custom(
-                    user_id="2544412429",
-                    nickname="星野梦美",
-                    content=character_msg,
-                )
-            )
-    # birth_node = MessageSegment.node_custom(user_id="2544412429", nickname="星野梦美", content= msg_list)
-    # for msg in msg_list: 
-    #     await birthday_event.send(msg)
-    await birthday_event.send(birth_node)
+    
+    for msg in msg_list: 
+        await birthday_event.send(msg)
 
 async def daily_birthday_msg():
     bot = nonebot.get_bot()
@@ -116,18 +106,8 @@ async def daily_birthday_msg():
         msg_list.insert(0, MessageSegment.text("今天过生日的Key社角色如下，让我们祝他们生日快乐吧!\n"))
     
     for group_id in group_list:
-        birth_node =[]
-    for character_msg in msg_list:
-        birth_node.append(
-                MessageSegment.node_custom(
-                    user_id="2544412429",
-                    nickname="星野梦美",
-                    content=character_msg,
-                )
-            )
-        await bot.call_api("send_group_msg", group_id=group_id, message=birth_node)
-        # for msg in msg_list:
-        #     await bot.call_api("send_group_msg", group_id=group_id, message=msg)
+        for msg in msg_list:
+            await bot.call_api("send_group_msg", group_id=group_id, message=msg)
     
 
 scheduler.add_job(daily_birthday_msg, "cron", hour=0, minute=0, second=0, id='daily_birthday', timezone=pytz.timezone("Asia/Shanghai"))
