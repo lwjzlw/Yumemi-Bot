@@ -3,6 +3,9 @@ from nonebot import get_plugin_config
 from nonebot.plugin import PluginMetadata
 from nonebot.adapters import Message
 from nonebot.params import CommandArg
+from typing import List
+import random
+from datetime import datetime
 
 from .config import PluginConfig
 from nonebot.adapters.onebot.v11 import (
@@ -25,6 +28,15 @@ __plugin_meta__ = PluginMetadata(
 
 config = get_plugin_config(PluginConfig)
 
+def get_image_list(image_base_folder: str, cha_name: str) -> List[str]:
+    matching_files = []
+    for root, dirs, files in os.walk(image_base_folder):
+        for file in files:
+            if cha_name in file:
+                matching_files.append(os.path.join(root, file))
+    
+    return matching_files
+
 prophecy_event = nonebot.on_command("今日运势", aliases={"抽签", "占卜", "key占卜"}, priority=8, block=True)
 
 @prophecy_event.handle()
@@ -46,9 +58,11 @@ async def _(event: GroupMessageEvent):
         
         if heroine in character_data:
             game_name = character_data[heroine]["game_name"]
-            img_list = character_data[heroine]["img_path"]
-            image_path = os.path.join(config.image_base_folder, random.choice(img_list))
-            print(image_path)
+            img_list = get_image_list(config.image_base_folder, heroine)
+            today = datetime.now().strftime("%Y-%m-%d")
+            random.seed(f"{user_id}_{today}")
+            image_path = random.choice(img_list)
+            #print(image_path)
             if not os.path.isfile(image_path):
                 image_path = ""
     except Exception as e:
