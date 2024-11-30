@@ -3,6 +3,7 @@ from nonebot import get_plugin_config
 from nonebot.plugin import PluginMetadata
 from nonebot.adapters import Message
 from nonebot.params import CommandArg
+from nonebot.matcher import Matcher
 from nonebot import require
 require("nonebot_plugin_apscheduler")
 from nonebot_plugin_apscheduler import scheduler
@@ -21,10 +22,17 @@ from nonebot.adapters.onebot.v11 import (
 )
 from .query_birthday import get_birthdays
 
+__plugin_usage__ = f"""
+1. 输入 “#生日” 查询今日过生日的角色；
+2. 输入 “#生日 角色名” 查询指定角色的生日；
+3. 输入 “#生日 月 日” 查询指定日期过生日的角色。
+"""
+
+
 __plugin_meta__ = PluginMetadata(
     name="birthday",
     description="",
-    usage="",
+    usage=__plugin_usage__,
     config=PluginConfig,
 )
 
@@ -62,16 +70,21 @@ def get_birthday_msg_list(character_list: List[str]) -> List[MessageSegment]:
 birthday_event = nonebot.on_command("birthday", aliases={"生日"}, priority=8, block=True)
 
 @birthday_event.handle()
-async def _(event: GroupMessageEvent, args: Message=CommandArg()):
+async def birthday_event_handler(matcher: Matcher, event: GroupMessageEvent, args: Message=CommandArg()):
     user_id = str(event.get_user_id())
-    #msg = MessageSegment.forward()
-    args = args.extract_plain_text()
+    args: str = args.extract_plain_text()
     if not args:
         month, day = datetime.today().month, datetime.today().day
     else:
         args: List[str] = args.split()
-        if len(args) != 2:
-            await birthday_event.finish(f"使用方法：#生日 月 日 或只输入“#生日”查询今日。{args}")
+        
+        if len(args) > 2:
+            await birthday_event.finish(f"使用方法：\n{__plugin_usage__}")
+            
+        if len(args) == 1:    # Query birthday by character name.
+            matcher.set_arg("character_name", args[0])
+            matcher.skip()
+        
         if not (args[0].isdigit() and args[1].isdigit()):
             await birthday_event.finish("请输入合法的月和日！\n")
         month, day = int(args[0]), int(args[1])
@@ -100,7 +113,23 @@ async def _(event: GroupMessageEvent, args: Message=CommandArg()):
     # birth_node = MessageSegment.node_custom(user_id="2544412429", nickname="星野梦美", content= msg_list)
     # for msg in msg_list: 
     #     await birthday_event.send(msg)
-    await birthday_event.send(birth_node)
+    await birthday_event.finish(birth_node)
+    
+    
+@birthday_event.handle()
+async def send_birthday_by_name(matcher: Matcher, event: GroupMessageEvent, args: Message=CommandArg()):
+    msg = MessageSegment.at(event.user_id) + MessageSegment.text("\n")
+    
+    character_name = matcher.get_arg("character_name")
+    character = Character(character_name)
+    if not character.init(config.character_json_path, config.image_base_folder):
+        await birthday_event.finish(msg + f"梦美没有查询到名为{character_name}的角色信息，换个名称试试吧！")
+    
+    if character.birthday == "" or character.birthday == "unknown":
+        await birthday_event.finish(msg + f"非常抱歉，梦美不知道{character_name}的生日")
+    
+    month, date = tuple(character.birthday.split('-'))
+    await birthday_event.finish(msg + f"{character_name}的生日是{month}月{date}日")
 
 async def daily_birthday_msg():
     bot = nonebot.get_bot()

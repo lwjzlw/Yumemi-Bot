@@ -2,7 +2,7 @@
     "雾岛圣": {
         "game_name": "AIR",
         "birthday": "1-3",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "雾岛圣.jpg"
         ],
@@ -18,7 +18,7 @@
     "桐生美也": {
         "game_name": "Heaven Burns Red",
         "birthday": "1-5",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "桐生美也.webp"
         ],
@@ -34,7 +34,7 @@
     "泽渡真琴": {
         "game_name": "Kanon",
         "birthday": "1-6",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "泽渡真琴.jpeg"
         ],
@@ -50,7 +50,7 @@
     "白河结奈": {
         "game_name": "Heaven Burns Red",
         "birthday": "1-6",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "白河结奈.webp"
         ],
@@ -66,7 +66,7 @@
     "月宫亚由": {
         "game_name": "Kanon",
         "birthday": "1-7",
-        "aliases": "",
+        "aliases": ["亚由", "Ayu"],
         "img_path": [
             "月宫亚由.jpeg"
         ],
@@ -82,7 +82,7 @@
     "直枝架夜": {
         "game_name": "Kud Wafter",
         "birthday": "1-12",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "直枝架夜.jpeg"
         ],
@@ -98,7 +98,7 @@
     "水濑莓": {
         "game_name": "Heaven Burns Red",
         "birthday": "1-15",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "水濑莓.webp"
         ],
@@ -114,7 +114,7 @@
     "直枝理树": {
         "game_name": "Little Busters!",
         "birthday": "1-17",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "直枝理树.jpeg"
         ],
@@ -130,7 +130,7 @@
     "伊吹公子": {
         "game_name": "CLANNAD",
         "birthday": "1-18",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "伊吹公子.jpeg"
         ],
@@ -146,7 +146,7 @@
     "露娜Q": {
         "game_name": "LUNARiA!",
         "birthday": "1-23",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "露娜Q.png"
         ],
@@ -162,7 +162,7 @@
     "芙里提卡": {
         "game_name": "Heaven Burns Red",
         "birthday": "1-26",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "芙里提卡.webp"
         ],
@@ -178,7 +178,7 @@
     "川澄舞": {
         "game_name": "Kanon",
         "birthday": "1-29",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "川澄舞.jpeg"
         ],
@@ -194,7 +194,7 @@
     "美坂栞": {
         "game_name": "Kanon",
         "birthday": "2-1",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "美坂栞.jpeg"
         ],
@@ -210,7 +210,7 @@
     "野村美希": {
         "game_name": "Summer Pockets",
         "birthday": "2-2",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "野村美希.png"
         ],
@@ -226,7 +226,7 @@
     "佐月麻里": {
         "game_name": "Heaven Burns Red",
         "birthday": "2-7",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "佐月麻里.webp"
         ],
@@ -242,7 +242,7 @@
     "三谷良一": {
         "game_name": "Summer Pockets",
         "birthday": "2-9",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "三谷良一.png"
         ],
@@ -258,7 +258,7 @@
     "东城司": {
         "game_name": "Heaven Burns Red",
         "birthday": "2-14",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "东城司.webp"
         ],
@@ -274,7 +274,7 @@
     "春原阳平": {
         "game_name": "CLANNAD",
         "birthday": "2-17",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "春原阳平.PNG"
         ],
@@ -290,7 +290,7 @@
     "千里朱音": {
         "game_name": "Rewrite",
         "birthday": "2-17",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "千里朱音.png"
         ],
@@ -306,7 +306,7 @@
     "神崎阿黛尔海德": {
         "game_name": "Heaven Burns Red",
         "birthday": "2-22",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "神崎阿黛尔海德.webp"
         ],
@@ -322,7 +322,7 @@
     "町村玲央奈": {
         "game_name": "LOOPERS",
         "birthday": "2-24",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "町村玲央奈.png"
         ],
@@ -338,7 +338,7 @@
     "玛丽亚": {
         "game_name": "Heaven Burns Red",
         "birthday": "2-26",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "玛丽亚.webp"
         ],
@@ -354,7 +354,7 @@
     "命吹雪": {
         "game_name": "Heaven Burns Red",
         "birthday": "3-4",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "命吹雪.webp"
         ],
@@ -370,7 +370,7 @@
     "西门贵明": {
         "game_name": "LOOPERS",
         "birthday": "3-5",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "西门贵明.webp"
         ],
@@ -386,7 +386,7 @@
     "井上晶": {
         "game_name": "Rewrite",
         "birthday": "3-6",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "井上晶.png"
         ],
@@ -402,7 +402,7 @@
     "来谷唯湖": {
         "game_name": "Little Busters!",
         "birthday": "3-13",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "来谷唯湖.png"
         ],
@@ -418,7 +418,7 @@
     "柊木梢": {
         "game_name": "Heaven Burns Red",
         "birthday": "3-18",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "柊木梢.png"
         ],
@@ -434,7 +434,7 @@
     "小笠原绯雨": {
         "game_name": "Heaven Burns Red",
         "birthday": "3-21",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "小笠原绯雨.webp"
         ],
@@ -450,7 +450,7 @@
     "有月椎菜": {
         "game_name": "Kud Wafter",
         "birthday": "3-25",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "有月椎菜.jpeg"
         ],
@@ -466,7 +466,7 @@
     "华村诗纪": {
         "game_name": "Heaven Burns Red",
         "birthday": "3-25",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "华村诗纪.png"
         ],
@@ -482,7 +482,7 @@
     "凤咲夜": {
         "game_name": "Rewrite",
         "birthday": "3-27",
-        "aliases": "",
+        "aliases": [],
         "img_path": [],
         "cv": "小西克幸",
         "staff": "樋上いたる",
@@ -496,7 +496,7 @@
     "阿酱前辈": {
         "game_name": "Little Busters! EX",
         "birthday": "4-1",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "阿酱前辈.jpeg"
         ],
@@ -512,7 +512,7 @@
     "丰厚弥生": {
         "game_name": "Heaven Burns Red",
         "birthday": "4-1",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "丰厚弥生.png"
         ],
@@ -528,7 +528,7 @@
     "藤川美亚": {
         "game_name": "LOOPERS",
         "birthday": "4-2",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "藤川美亚.png"
         ],
@@ -544,7 +544,7 @@
     "相乐美佐枝": {
         "game_name": "CLANNAD",
         "birthday": "4-3",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "相乐美佐枝.jpeg"
         ],
@@ -560,7 +560,7 @@
     "久岛鸥": {
         "game_name": "Summer Pockets",
         "birthday": "4-4",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "久岛鸥.jpeg"
         ],
@@ -576,7 +576,7 @@
     "神北小毬": {
         "game_name": "Little Busters!",
         "birthday": "4-5",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "神北小毬.jpeg"
         ],
@@ -592,7 +592,7 @@
     "白虎": {
         "game_name": "Heaven Burns Red",
         "birthday": "4-8",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "白虎.png"
         ],
@@ -608,7 +608,7 @@
     "柳美音": {
         "game_name": "Heaven Burns Red",
         "birthday": "4-13",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "柳美音.webp"
         ],
@@ -624,7 +624,7 @@
     "北川润": {
         "game_name": "Kanon",
         "birthday": "4-18",
-        "aliases": "",
+        "aliases": [],
         "img_path": [],
         "cv": null,
         "staff": null,
@@ -638,7 +638,7 @@
     "松岗绮罗路": {
         "game_name": "Heaven Burns Red",
         "birthday": "4-26",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "松岗绮罗路.webp"
         ],
@@ -654,7 +654,7 @@
     "水织静久": {
         "game_name": "Summer Pockets",
         "birthday": "4-29",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "水织静久.png"
         ],
@@ -670,7 +670,7 @@
     "宫泽谦吾": {
         "game_name": "Little Busters!",
         "birthday": "4-30",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "宫泽谦吾.jpg"
         ],
@@ -686,7 +686,7 @@
     "冈崎直幸": {
         "game_name": "CLANNAD",
         "birthday": "5-1",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "冈崎直幸.jpg"
         ],
@@ -702,7 +702,7 @@
     "天王寺瑚太朗": {
         "game_name": "Rewrite",
         "birthday": "5-2",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "天王寺瑚太朗.jpg"
         ],
@@ -718,7 +718,7 @@
     "枣恭介": {
         "game_name": "Little Busters!",
         "birthday": "5-4",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "枣恭介.jpg"
         ],
@@ -734,7 +734,7 @@
     "仓田佐祐理": {
         "game_name": "Kanon",
         "birthday": "5-5",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "仓田佐祐理.jpeg"
         ],
@@ -750,7 +750,7 @@
     "夏洛特": {
         "game_name": "Heaven Burns Red",
         "birthday": "5-7",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "夏洛特.webp"
         ],
@@ -766,7 +766,7 @@
     "利田美咲": {
         "game_name": "LOOPERS",
         "birthday": "5-8",
-        "aliases": "",
+        "aliases": [],
         "img_path": [],
         "cv": null,
         "staff": null,
@@ -780,7 +780,7 @@
     "友利奈绪": {
         "game_name": "Charlotte",
         "birthday": "5-11",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "友利奈绪.jpeg"
         ],
@@ -796,7 +796,7 @@
     "室伏理沙": {
         "game_name": "Heaven Burns Red",
         "birthday": "5-12",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "室伏理沙.png"
         ],
@@ -812,7 +812,7 @@
     "一之濑琴美": {
         "game_name": "CLANNAD",
         "birthday": "5-13",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "一之濑琴美.jpeg"
         ],
@@ -828,7 +828,7 @@
     "鹰原羽依里": {
         "game_name": "Summer Pockets",
         "birthday": "5-21",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "鹰原羽依里.png"
         ],
@@ -844,7 +844,7 @@
     "石井色叶": {
         "game_name": "Heaven Burns Red",
         "birthday": "5-26",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "石井色叶.webp"
         ],
@@ -860,7 +860,7 @@
     "雾岛让": {
         "game_name": "LOOPERS",
         "birthday": "6-6",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "雾岛让.JPG"
         ],
@@ -876,7 +876,7 @@
     "二阶堂三乡": {
         "game_name": "Heaven Burns Red",
         "birthday": "6-6",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "二阶堂三乡.jpg"
         ],
@@ -892,7 +892,7 @@
     "鸣濑白羽": {
         "game_name": "Summer Pockets",
         "birthday": "6-8",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "鸣濑白羽.jpeg"
         ],
@@ -908,7 +908,7 @@
     "春原芽衣": {
         "game_name": "CLANNAD",
         "birthday": "6-11",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "春原芽衣.jpeg"
         ],
@@ -924,7 +924,7 @@
     "能美库特莉亚芙卡": {
         "game_name": "Little Busters!",
         "birthday": "6-12",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "能美库特莉亚芙卡.jpeg"
         ],
@@ -940,7 +940,7 @@
     "雾岛佳乃": {
         "game_name": "AIR",
         "birthday": "6-12",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "雾岛佳乃.jpeg"
         ],
@@ -956,7 +956,7 @@
     "志麻子": {
         "game_name": "Rewrite",
         "birthday": "6-13",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "志麻子.jpeg"
         ],
@@ -972,7 +972,7 @@
     "中津静流": {
         "game_name": "Rewrite",
         "birthday": "6-18",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "中津静流.png"
         ],
@@ -988,7 +988,7 @@
     "藏里见": {
         "game_name": "Heaven Burns Red",
         "birthday": "6-18",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "藏里见.webp"
         ],
@@ -1004,7 +1004,7 @@
     "茅森月歌": {
         "game_name": "Heaven Burns Red",
         "birthday": "6-24",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "茅森月歌.png"
         ],
@@ -1020,7 +1020,7 @@
     "樱庭星罗": {
         "game_name": "Heaven Burns Red",
         "birthday": "6-29",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "樱庭星罗.webp"
         ],
@@ -1036,7 +1036,7 @@
     "神山识": {
         "game_name": "Summer Pockets REFLECTION BLUE",
         "birthday": "7-4",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "神山识.png"
         ],
@@ -1052,7 +1052,7 @@
     "苍井绘梨花": {
         "game_name": "Heaven Burns Red",
         "birthday": "7-7",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "苍井绘梨花.webp"
         ],
@@ -1068,7 +1068,7 @@
     "朝仓可怜": {
         "game_name": "Heaven Burns Red",
         "birthday": "7-11",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "朝仓可怜.png"
         ],
@@ -1084,7 +1084,7 @@
     "西九条灯花": {
         "game_name": "Rewrite",
         "birthday": "7-12",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "西九条灯花.jpeg"
         ],
@@ -1100,7 +1100,7 @@
     "有月初": {
         "game_name": "库特wafter",
         "birthday": "7-16",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "有月初.JPG"
         ],
@@ -1116,7 +1116,7 @@
     "伊吹风子": {
         "game_name": "CLANNAD",
         "birthday": "7-20",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "伊吹风子.jpeg"
         ],
@@ -1132,7 +1132,7 @@
     "古河秋生": {
         "game_name": "CLANNAD",
         "birthday": "7-20",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "古河秋生.JPG"
         ],
@@ -1148,7 +1148,7 @@
     "平良明": {
         "game_name": "LOOPERS",
         "birthday": "7-21",
-        "aliases": "",
+        "aliases": [],
         "img_path": [],
         "cv": "",
         "staff": null,
@@ -1162,7 +1162,7 @@
     "天音巫呼": {
         "game_name": "Heaven Burns Red",
         "birthday": "7-22",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "天音巫呼.png"
         ],
@@ -1178,7 +1178,7 @@
     "神尾观铃": {
         "game_name": "AIR",
         "birthday": "7-23",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "神尾观铃.jpeg"
         ],
@@ -1194,7 +1194,7 @@
     "神户小鸟": {
         "game_name": "Rewrite",
         "birthday": "7-26",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "神户小鸟.jpeg"
         ],
@@ -1210,7 +1210,7 @@
     "卡罗尔利帕": {
         "game_name": "Heaven Burns Red",
         "birthday": "8-2",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "卡罗尔利帕.webp"
         ],
@@ -1226,7 +1226,7 @@
     "宫泽有纪宁": {
         "game_name": "CLANNAD",
         "birthday": "8-7",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "宫泽有纪宁.jpeg"
         ],
@@ -1242,7 +1242,7 @@
     "夏目祈": {
         "game_name": "Heaven Burns Red",
         "birthday": "8-15",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "夏目祈.webp"
         ],
@@ -1258,7 +1258,7 @@
     "西园美鱼": {
         "game_name": "Little Busters!",
         "birthday": "8-22",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "西园美鱼.jpeg"
         ],
@@ -1274,7 +1274,7 @@
     "凤千早": {
         "game_name": "Rewrite",
         "birthday": "8-24",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "凤千早.jpeg"
         ],
@@ -1290,7 +1290,7 @@
     "山胁邦伊瓦尔": {
         "game_name": "Heaven Burns Red",
         "birthday": "8-25",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "山胁邦伊瓦尔.webp"
         ],
@@ -1306,7 +1306,7 @@
     "幸村俊夫": {
         "game_name": "CLANNAD",
         "birthday": "8-27",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "幸村俊夫.jpg"
         ],
@@ -1322,7 +1322,7 @@
     "伊座并杏子": {
         "game_name": "成神之日",
         "birthday": "8-29",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "伊座并杏子.jpg"
         ],
@@ -1338,7 +1338,7 @@
     "紬文德斯": {
         "game_name": "Summer Pockets",
         "birthday": "8-31",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "紬文德斯.jpeg"
         ],
@@ -1354,7 +1354,7 @@
     "加藤羽未": {
         "game_name": "Summer Pockets",
         "birthday": "9-1",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "加藤羽未.jpeg"
         ],
@@ -1370,7 +1370,7 @@
     "枣铃": {
         "game_name": "Little Busters!",
         "birthday": "9-2",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "枣铃.jpeg"
         ],
@@ -1386,7 +1386,7 @@
     "水濑李": {
         "game_name": "Heaven Burns Red",
         "birthday": "9-6",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "水濑李.webp"
         ],
@@ -1402,7 +1402,7 @@
     "藤林杏": {
         "game_name": "CLANNAD",
         "birthday": "9-9",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "藤林杏.jpeg"
         ],
@@ -1418,7 +1418,7 @@
     "藤林椋": {
         "game_name": "CLANNAD",
         "birthday": "9-9",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "藤林椋.jpeg"
         ],
@@ -1434,7 +1434,7 @@
     "昼田贵理子": {
         "game_name": "LOOPERS",
         "birthday": "9-13",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "昼田贵理子.png"
         ],
@@ -1450,7 +1450,7 @@
     "和泉由希": {
         "game_name": "Heaven Burns Red",
         "birthday": "9-17",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "和泉由希.webp"
         ],
@@ -1466,7 +1466,7 @@
     "空门苍": {
         "game_name": "Summer Pockets",
         "birthday": "9-20",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "空门苍.jpeg"
         ],
@@ -1482,7 +1482,7 @@
     "空门蓝": {
         "game_name": "Summer Pockets",
         "birthday": "9-20",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "空门蓝.jpg"
         ],
@@ -1498,7 +1498,7 @@
     "水濑秋子": {
         "game_name": "Kanon",
         "birthday": "9-23",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "水濑秋子.jpg"
         ],
@@ -1514,7 +1514,7 @@
     "丸山奏多": {
         "game_name": "Heaven Burns Red",
         "birthday": "10-1",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "丸山奏多.webp"
         ],
@@ -1530,7 +1530,7 @@
     "古河早苗": {
         "game_name": "CLANNAD",
         "birthday": "10-5",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "古河早苗.jpg"
         ],
@@ -1546,7 +1546,7 @@
     "艾琳雷顿明": {
         "game_name": "Heaven Burns Red",
         "birthday": "10-7",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "艾琳雷顿明.webp"
         ],
@@ -1562,7 +1562,7 @@
     "加纳天善": {
         "game_name": "Summer Pockets",
         "birthday": "10-10",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "加纳天善.png"
         ],
@@ -1578,7 +1578,7 @@
     "二木佳奈多": {
         "game_name": "Little Busters!",
         "birthday": "10-13",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "二木佳奈多.jpeg"
         ],
@@ -1594,7 +1594,7 @@
     "三枝叶留佳": {
         "game_name": "Little Busters!",
         "birthday": "10-13",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "三枝叶留佳.jpeg"
         ],
@@ -1610,7 +1610,7 @@
     "坂上智代": {
         "game_name": "CLANNAD、智代After",
         "birthday": "10-14",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "坂上智代.jpeg"
         ],
@@ -1626,7 +1626,7 @@
     "岬镜子": {
         "game_name": "Summer Pockets",
         "birthday": "10-18",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "岬镜子.jpeg"
         ],
@@ -1642,7 +1642,7 @@
     "朱鹭户沙耶": {
         "game_name": "Little Busters! EX",
         "birthday": "10-21",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "朱鹭户沙耶.jpeg"
         ],
@@ -1658,7 +1658,7 @@
     "伊达朱里": {
         "game_name": "Heaven Burns Red",
         "birthday": "10-21",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "伊达朱里.webp"
         ],
@@ -1674,7 +1674,7 @@
     "逢川惠": {
         "game_name": "Heaven Burns Red",
         "birthday": "10-28",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "逢川惠.jpg"
         ],
@@ -1690,7 +1690,7 @@
     "冈崎朋也": {
         "game_name": "CLANNAD",
         "birthday": "10-30",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "冈崎朋也.jpg"
         ],
@@ -1706,7 +1706,7 @@
     "国见玉": {
         "game_name": "Heaven Burns Red",
         "birthday": "11-1",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "国见玉.webp",
             "国见玉.png"
@@ -1723,7 +1723,7 @@
     "瑞原蓝娜": {
         "game_name": "Heaven Burns Red",
         "birthday": "11-2",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "瑞原蓝娜.webp"
         ],
@@ -1739,7 +1739,7 @@
     "神尾晴子": {
         "game_name": "AIR",
         "birthday": "11-3",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "神尾晴子.jpg"
         ],
@@ -1755,7 +1755,7 @@
     "冰室忧希": {
         "game_name": "库特wafter",
         "birthday": "11-3",
-        "aliases": "",
+        "aliases": [],
         "img_path": [],
         "cv": null,
         "staff": null,
@@ -1769,7 +1769,7 @@
     "井之原真人": {
         "game_name": "Little Busters!",
         "birthday": "11-6",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "井之原真人.png"
         ],
@@ -1785,7 +1785,7 @@
     "吉野晴彦": {
         "game_name": "Rewrite",
         "birthday": "11-7",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "吉野晴彦.png"
         ],
@@ -1801,7 +1801,7 @@
     "樋口圣华": {
         "game_name": "Heaven Burns Red",
         "birthday": "11-8",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "樋口圣华.webp"
         ],
@@ -1817,7 +1817,7 @@
     "黑泽真希": {
         "game_name": "Heaven Burns Red",
         "birthday": "11-22",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "黑泽真希.webp"
         ],
@@ -1833,7 +1833,7 @@
     "大岛一千子": {
         "game_name": "Heaven Burns Red",
         "birthday": "11-29",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "大岛一千子.webp"
         ],
@@ -1849,7 +1849,7 @@
     "大岛二以奈": {
         "game_name": "Heaven Burns Red",
         "birthday": "11-29",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "大岛二以奈.png"
         ],
@@ -1865,7 +1865,7 @@
     "大岛三野里": {
         "game_name": "Heaven Burns Red",
         "birthday": "11-29",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "大岛三野里.webp"
         ],
@@ -1881,7 +1881,7 @@
     "大岛四叶草": {
         "game_name": "Heaven Burns Red",
         "birthday": "11-29",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "大岛四叶草.jpg"
         ],
@@ -1897,7 +1897,7 @@
     "大岛五十铃": {
         "game_name": "Heaven Burns Red",
         "birthday": "11-29",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "大岛五十铃.png"
         ],
@@ -1913,7 +1913,7 @@
     "大岛六宇亚": {
         "game_name": "Heaven Burns Red",
         "birthday": "11-29",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "大岛六宇亚.webp"
         ],
@@ -1929,7 +1929,7 @@
     "月城最中": {
         "game_name": "Heaven Burns Red",
         "birthday": "12-1",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "月城最中.webp"
         ],
@@ -1945,7 +1945,7 @@
     "鸣濑小鸠": {
         "game_name": "Summer Pockets",
         "birthday": "12-2",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "鸣濑小鸠.png"
         ],
@@ -1961,7 +1961,7 @@
     "笹濑川佐佐美": {
         "game_name": "Little Busters! EX",
         "birthday": "12-3",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "笹濑川佐佐美.jpeg"
         ],
@@ -1977,7 +1977,7 @@
     "芳野祐介": {
         "game_name": "CLANNAD",
         "birthday": "12-5",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "芳野祐介.jpg"
         ],
@@ -1993,7 +1993,7 @@
     "天野美汐": {
         "game_name": "Kanon",
         "birthday": "12-6",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "天野美汐.jpg"
         ],
@@ -2009,7 +2009,7 @@
     "李映夏": {
         "game_name": "Heaven Burns Red",
         "birthday": "12-14",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "李映夏.png"
         ],
@@ -2025,7 +2025,7 @@
     "远野美凪": {
         "game_name": "AIR",
         "birthday": "12-22",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "远野美凪.jpeg"
         ],
@@ -2041,7 +2041,7 @@
     "水濑名雪": {
         "game_name": "Kanon",
         "birthday": "12-23",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "水濑名雪.jpeg"
         ],
@@ -2057,7 +2057,7 @@
     "此花露西娅": {
         "game_name": "Rewrite",
         "birthday": "12-23",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "此花露西娅.gif"
         ],
@@ -2073,7 +2073,7 @@
     "古河渚": {
         "game_name": "CLANNAD",
         "birthday": "12-24",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "古河渚.jpeg"
         ],
@@ -2089,7 +2089,7 @@
     "菅原千惠": {
         "game_name": "Heaven Burns Red",
         "birthday": "12-25",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "菅原千惠.png"
         ],
@@ -2105,7 +2105,7 @@
     "西森柚咲": {
         "game_name": "Charlotte",
         "birthday": "12-27",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "西森柚咲.png"
         ],
@@ -2121,7 +2121,7 @@
     "ホリー": {
         "game_name": "LOOPERS",
         "birthday": "12-27",
-        "aliases": "",
+        "aliases": [],
         "img_path": [],
         "cv": null,
         "staff": null,
@@ -2135,7 +2135,7 @@
     "小满": {
         "game_name": "AIR",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "小满.jpeg"
         ],
@@ -2151,7 +2151,7 @@
     "神奈备命": {
         "game_name": "AIR",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "神奈备命.jpg"
         ],
@@ -2167,7 +2167,7 @@
     "冈崎汐": {
         "game_name": "CLANNAD",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "冈崎汐.jpeg"
         ],
@@ -2183,7 +2183,7 @@
     "篝": {
         "game_name": "Rewrite",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "篝.jpeg"
         ],
@@ -2199,7 +2199,7 @@
     "亚斯茗": {
         "game_name": "Rewrite",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "亚斯茗.jpeg"
         ],
@@ -2215,7 +2215,7 @@
     "仲村由理": {
         "game_name": "Angel Beats!",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "仲村由理.jpeg"
         ],
@@ -2231,7 +2231,7 @@
     "立华奏": {
         "game_name": "Angel Beats!",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "立华奏.png"
         ],
@@ -2247,7 +2247,7 @@
     "由依": {
         "game_name": "Angel Beats!",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "由依.jpeg"
         ],
@@ -2263,7 +2263,7 @@
     "岩泽雅美": {
         "game_name": "Angel Beats!",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "岩泽雅美.jpeg"
         ],
@@ -2279,7 +2279,7 @@
     "入江美雪": {
         "game_name": "Angel Beats!",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "入江美雪.jpeg"
         ],
@@ -2295,7 +2295,7 @@
     "关根诗织": {
         "game_name": "Angel Beats!",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "关根诗织.jpeg"
         ],
@@ -2311,7 +2311,7 @@
     "乙坂步未": {
         "game_name": "Charlotte",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "乙坂步未.jpeg"
         ],
@@ -2327,7 +2327,7 @@
     "星野梦美": {
         "game_name": "星之梦",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "星野梦美.jpeg"
         ],
@@ -2343,7 +2343,7 @@
     "诗音那": {
         "game_name": "Harmonia",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "诗音那.jpeg"
         ],
@@ -2359,7 +2359,7 @@
     "提比": {
         "game_name": "Harmonia",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "提比.jpeg"
         ],
@@ -2375,7 +2375,7 @@
     "菲莉娅": {
         "game_name": "星之终途",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "菲莉娅.png"
         ],
@@ -2391,7 +2391,7 @@
     "佐藤雏": {
         "game_name": "成神之日",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "佐藤雏.png"
         ],
@@ -2407,7 +2407,7 @@
     "灰樱": {
         "game_name": "天籁人偶",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "灰樱.png"
         ],
@@ -2423,7 +2423,7 @@
     "土豆": {
         "game_name": "AIR",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "土豆.jpeg"
         ],
@@ -2439,7 +2439,7 @@
     "乌鸦": {
         "game_name": "AIR",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "乌鸦.jpeg"
         ],
@@ -2455,7 +2455,7 @@
     "鲷鱼烧": {
         "game_name": "Kanon",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "鲷鱼烧.jpeg"
         ],
@@ -2471,7 +2471,7 @@
     "海星": {
         "game_name": "CLANNAD",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "海星.jpeg"
         ],
@@ -2487,7 +2487,7 @@
     "牡丹": {
         "game_name": "CLANNAD",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "牡丹.png"
         ],
@@ -2503,7 +2503,7 @@
     "麻枝准": {
         "game_name": "Key",
         "birthday": "unknown",
-        "aliases": "",
+        "aliases": [],
         "img_path": [
             "麻枝准.png"
         ],

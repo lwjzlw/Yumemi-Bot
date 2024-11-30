@@ -16,7 +16,7 @@ for birthday in data.keys():
                 continue
             new_data[cha_name][attr] = cha_data[attr]
             new_data[cha_name]["birthday"] = birthday
-            new_data[cha_name]["aliases"] = "" 
+            new_data[cha_name]["aliases"] = list() 
 
 with open("/home/ubuntu/Yumemi-Bot/resource/character_data.json", 'w') as f:
     json.dump(new_data, f, ensure_ascii=False, indent=4)

@@ -19,10 +19,16 @@ class Character():
     def init(self, json_path: str, image_base_path: str) -> bool:
         try:
             with open(json_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-            if self.cha_name not in data:
-                return False
+                data: Dict = json.load(f)
+            if self.cha_name not in data:   # try aliases
+                for cha_name, cha_data in data.items():
+                    if self.cha_name in cha_data["aliases"]:
+                        self.cha_name = cha_name
+                        break
         except Exception as e:
+            return False
+        
+        if self.cha_name not in data:
             return False
         
         cha_data: Dict = data[self.cha_name]
