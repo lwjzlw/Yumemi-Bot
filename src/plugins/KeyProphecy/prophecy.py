@@ -14,6 +14,8 @@ class Prophecy():
         return random.randint(0, 100)
         
     def getHeroine(self) -> str:
+        if self.user_id == "2694414286":
+            return "中津静流"
         random.seed(f"{self.variant_seed}_heroine")
         heroines: List[str]
         with open("/home/ubuntu/Yumemi-Bot/src/plugins/KeyProphecy/resource/heroine.txt", 'r') as f:
