@@ -1,0 +1,1722 @@
+{
+    "月宫亚由": {
+        "cid": "c2927",
+        "roma": "Tsukimiya Ayu",
+        "origin": "月宮 あゆ",
+        "aliases": [
+            "亚由",
+            "Ayu"
+        ]
+    },
+    "水濑名雪": {
+        "cid": "c2928",
+        "roma": "Minase Nayuki",
+        "origin": "水瀬 名雪",
+        "aliases": [
+            "名雪",
+            "nayuki"
+        ]
+    },
+    "泽渡真琴": {
+        "cid": "c2930",
+        "roma": "Sawatari Makoto",
+        "origin": "沢渡 真琴",
+        "aliases": [
+            "真琴",
+            "makoto"
+        ]
+    },
+    "美坂栞": {
+        "cid": "c2932",
+        "roma": "Misaka Shiori",
+        "origin": "美坂 栞",
+        "aliases": null
+    },
+    "川澄舞": {
+        "cid": "c2936",
+        "roma": "Kawasumi Mai",
+        "origin": "川澄 舞",
+        "aliases": [
+            "舞",
+            "mai"
+        ]
+    },
+    "相泽祐一": {
+        "cid": "c2937",
+        "roma": "Aizawa Yuuichi",
+        "origin": "相沢 祐一",
+        "aliases": [
+            "祐一"
+        ]
+    },
+    "天野美汐": {
+        "cid": "c2940",
+        "roma": "Amano Mishio",
+        "origin": "天野 美汐",
+        "aliases": null
+    },
+    "美坂香里": {
+        "cid": "c2941",
+        "roma": "Misaka Kaori",
+        "origin": "美坂 香里",
+        "aliases": null
+    },
+    "仓田佐祐理": {
+        "cid": "c2942",
+        "roma": "Kurata Sayuri",
+        "origin": "倉田 佐祐理",
+        "aliases": null
+    },
+    "水濑秋子": {
+        "cid": "c2943",
+        "roma": "Minase Akiko",
+        "origin": "水瀬 秋子",
+        "aliases": [
+            "秋子",
+            "秋子阿姨"
+        ]
+    },
+    "北川润": {
+        "cid": "c2944",
+        "roma": "Kitagawa Jun",
+        "origin": "北川 潤",
+        "aliases": null
+    },
+    "皮罗": {
+        "cid": "c126797",
+        "roma": "Piro",
+        "origin": "None",
+        "aliases": [
+            "piro"
+        ]
+    },
+    "国崎往人": {
+        "cid": "c9990",
+        "roma": "Kunisaki Yukito",
+        "origin": "国崎 往人",
+        "aliases": [
+            "往人"
+        ]
+    },
+    "雾岛佳乃": {
+        "cid": "c9991",
+        "roma": "Kirishima Kano",
+        "origin": "霧島 佳乃",
+        "aliases": [
+            "佳乃"
+        ]
+    },
+    "雾岛圣": {
+        "cid": "c9992",
+        "roma": "Kirishima Hijiri",
+        "origin": "霧島 聖",
+        "aliases": null
+    },
+    "远野美凪": {
+        "cid": "c9993",
+        "roma": "Toono Minagi",
+        "origin": "遠野 美凪",
+        "aliases": null
+    },
+    "小满": {
+        "cid": "c9994",
+        "roma": "Michiru",
+        "origin": "みちる",
+        "aliases": [
+            "michiru"
+        ]
+    },
+    "神尾观铃": {
+        "cid": "c9995",
+        "roma": "Kamio Misuzu",
+        "origin": "神尾 観鈴",
+        "aliases": [
+            "观铃",
+            "misuzu"
+        ]
+    },
+    "神尾晴子": {
+        "cid": "c9996",
+        "roma": "Kamio Haruko",
+        "origin": "神尾 晴子",
+        "aliases": [
+            "晴子"
+        ]
+    },
+    "橘敬介": {
+        "cid": "c9997",
+        "roma": "Tachibana Keisuke",
+        "origin": "橘 敬介",
+        "aliases": null
+    },
+    "土豆": {
+        "cid": "c9998",
+        "roma": "Potato",
+        "origin": "ポテト",
+        "aliases": [
+            "potato"
+        ]
+    },
+    "神奈备命": {
+        "cid": "c17376",
+        "roma": "Kanna",
+        "origin": "神奈",
+        "aliases": [
+            "神奈"
+        ]
+    },
+    "里叶": {
+        "cid": "c21312",
+        "roma": "Uraha",
+        "origin": "裏葉",
+        "aliases": null
+    },
+    "柳也": {
+        "cid": "c21313",
+        "roma": "Ryuuya",
+        "origin": "柳也",
+        "aliases": null
+    },
+    "八百比丘尼": {
+        "cid": "c33459",
+        "roma": "Yaobikuni",
+        "origin": "八百比丘尼",
+        "aliases": null
+    },
+    "乌鸦": {
+        "cid": "c63800",
+        "roma": "Sora",
+        "origin": "そら",
+        "aliases": [
+            "小空"
+        ]
+    },
+    "一之濑琴美": {
+        "cid": "c190",
+        "roma": "Ichinose Kotomi",
+        "origin": "一ノ瀬 ことみ",
+        "aliases": [
+            "琴美",
+            "kotomi"
+        ]
+    },
+    "冈崎朋也": {
+        "cid": "c476",
+        "roma": "Okazaki Tomoya",
+        "origin": "岡崎 朋也",
+        "aliases": [
+            "朋也",
+            "tomoya"
+        ]
+    },
+    "古河渚": {
+        "cid": "c478",
+        "roma": "Furukawa Nagisa",
+        "origin": "古河 渚",
+        "aliases": [
+            "渚",
+            "小渚",
+            "nagisa"
+        ]
+    },
+    "坂上智代": {
+        "cid": "c488",
+        "roma": "Sakagami Tomoyo",
+        "origin": "坂上 智代",
+        "aliases": [
+            "智代",
+            "tomoyo"
+        ]
+    },
+    "伊吹风子": {
+        "cid": "c501",
+        "roma": "Ibuki Fuuko",
+        "origin": "伊吹 風子",
+        "aliases": [
+            "风子",
+            "fuuko",
+            "fuko"
+        ]
+    },
+    "藤林杏": {
+        "cid": "c537",
+        "roma": "Fujibayashi Kyou",
+        "origin": "藤林 杏",
+        "aliases": [
+            "杏"
+        ]
+    },
+    "春原阳平": {
+        "cid": "c4941",
+        "roma": "Sunohara Youhei",
+        "origin": "春原 陽平",
+        "aliases": [
+            "春原",
+            "马桶盖子"
+        ]
+    },
+    "藤林椋": {
+        "cid": "c6089",
+        "roma": "Fujibayashi Ryou",
+        "origin": "藤林 椋",
+        "aliases": [
+            "椋"
+        ]
+    },
+    "坂上鹰文": {
+        "cid": "c15847",
+        "roma": "Sakagami Takafumi",
+        "origin": "坂上 鷹文",
+        "aliases": null
+    },
+    "宫泽有纪宁": {
+        "cid": "c15850",
+        "roma": "Miyazawa Yukine",
+        "origin": "宮沢 有紀寧",
+        "aliases": [
+            "有纪宁",
+            "yukine"
+        ]
+    },
+    "相乐美佐枝": {
+        "cid": "c15851",
+        "roma": "Sagara Misae",
+        "origin": "相楽 美佐枝",
+        "aliases": [
+            "美佐枝"
+        ]
+    },
+    "芳野祐介": {
+        "cid": "c15852",
+        "roma": "Yoshino Yuusuke",
+        "origin": "芳野 祐介",
+        "aliases": null
+    },
+    "伊吹公子": {
+        "cid": "c15853",
+        "roma": "Ibuki Kouko",
+        "origin": "伊吹 公子",
+        "aliases": null
+    },
+    "柊胜平": {
+        "cid": "c15854",
+        "roma": "Hiiragi Kappei",
+        "origin": "柊 勝平",
+        "aliases": null
+    },
+    "古河早苗": {
+        "cid": "c15855",
+        "roma": "Furukawa Sanae",
+        "origin": "古河 早苗",
+        "aliases": [
+            "早苗",
+            "早苗阿姨"
+        ]
+    },
+    "冈崎直幸": {
+        "cid": "c15863",
+        "roma": "Okazaki Naoyuki",
+        "origin": "岡崎 直幸",
+        "aliases": [
+            "直幸"
+        ]
+    },
+    "古河秋生": {
+        "cid": "c15864",
+        "roma": "Furukawa Akio",
+        "origin": "古河 秋生",
+        "aliases": [
+            "秋生"
+        ]
+    },
+    "春原芽衣": {
+        "cid": "c15865",
+        "roma": "Sunohara Mei",
+        "origin": "春原 芽衣",
+        "aliases": [
+            "芽衣"
+        ]
+    },
+    "冈崎汐": {
+        "cid": "c15867",
+        "roma": "Okazaki Ushio",
+        "origin": "岡崎 汐",
+        "aliases": [
+            "汐",
+            "小汐",
+            "汐酱"
+        ]
+    },
+    "迷之少女": {
+        "cid": "c15873",
+        "roma": "Nazo no Shoujo",
+        "origin": "謎の少女",
+        "aliases": [
+            "谜之少女"
+        ]
+    },
+    "幸村俊夫": {
+        "cid": "c22633",
+        "roma": "Koumura Toshio",
+        "origin": "幸村 俊夫",
+        "aliases": null
+    },
+    "冈崎史乃": {
+        "cid": "c22634",
+        "roma": "Okazaki Shino",
+        "origin": "岡崎 史乃",
+        "aliases": null
+    },
+    "牡丹": {
+        "cid": "c33899",
+        "roma": "Botan",
+        "origin": "ボタン",
+        "aliases": [
+            "botan",
+            "野猪"
+        ]
+    },
+    "仁科理惠": {
+        "cid": "c56693",
+        "roma": "Nishina Rie",
+        "origin": "仁科 りえ",
+        "aliases": null
+    },
+    "人偶": {
+        "cid": "c86596",
+        "roma": "Garakuta no Ningyou",
+        "origin": "ガラクタの人形",
+        "aliases": null
+    },
+    "屑屋": {
+        "cid": "c440",
+        "roma": "Kuzuya",
+        "origin": "屑屋",
+        "aliases": null
+    },
+    "星野梦美": {
+        "cid": "c441",
+        "roma": "Hoshino Yumemi",
+        "origin": "ほしのゆめみ",
+        "aliases": null
+    },
+    "河南子": {
+        "cid": "c15848",
+        "roma": "Kanako",
+        "origin": "河南子",
+        "aliases": null
+    },
+    "三岛智": {
+        "cid": "c15849",
+        "roma": "Mishima Tomo",
+        "origin": "三島 とも",
+        "aliases": null
+    },
+    "三岛有子": {
+        "cid": "c33460",
+        "roma": "Mishima Yuuko",
+        "origin": "三島 有子",
+        "aliases": null
+    },
+    "神户小鸟": {
+        "cid": "c241",
+        "roma": "Kanbe Kotori",
+        "origin": "神戸 小鳥",
+        "aliases": [
+            "小鸟",
+            "kotori",
+            "小鸟小姐"
+        ]
+    },
+    "天王寺瑚太朗": {
+        "cid": "c267",
+        "roma": "Tennouji Kotarou",
+        "origin": "天王寺 瑚太朗",
+        "aliases": [
+            "瑚太朗",
+            "瑚太郎",
+            "天王寺"
+        ]
+    },
+    "中津静流": {
+        "cid": "c270",
+        "roma": "Nakatsu Shizuru",
+        "origin": "中津 静流",
+        "aliases": [
+            "静流",
+            "shizuru",
+            "sizuru"
+        ]
+    },
+    "千里朱音": {
+        "cid": "c272",
+        "roma": "Senri Akane",
+        "origin": "千里 朱音",
+        "aliases": [
+            "朱音"
+        ]
+    },
+    "此花露西娅": {
+        "cid": "c302",
+        "roma": "Konohana Lucia",
+        "origin": "此花 ルチア",
+        "aliases": [
+            "露西娅"
+        ]
+    },
+    "凤千早": {
+        "cid": "c303",
+        "roma": "Ootori Chihaya",
+        "origin": "鳳 ちはや",
+        "aliases": [
+            "大鸟",
+            "千早"
+        ]
+    },
+    "吉野晴彦": {
+        "cid": "c304",
+        "roma": "Yoshino Haruhiko",
+        "origin": "吉野 晴彦",
+        "aliases": [
+            "吉野",
+            "yoshino"
+        ]
+    },
+    "江坂宗源": {
+        "cid": "c624",
+        "roma": "Esaka Sougen",
+        "origin": "江坂 宗源",
+        "aliases": [
+            "江坂"
+        ]
+    },
+    "凤咲夜": {
+        "cid": "c765",
+        "roma": "Ootori Sakuya",
+        "origin": "鳳 咲夜",
+        "aliases": [
+            "咲夜"
+        ]
+    },
+    "西九条灯花": {
+        "cid": "c774",
+        "roma": "Nishikujou Touka",
+        "origin": "西九条 灯花",
+        "aliases": [
+            "西九条"
+        ]
+    },
+    "篝": {
+        "cid": "c5418",
+        "roma": "Kagari",
+        "origin": "篝",
+        "aliases": [
+            "kagari"
+        ]
+    },
+    "御堂": {
+        "cid": "c5443",
+        "roma": "Midow",
+        "origin": "ミドウ",
+        "aliases": [
+            "midow"
+        ]
+    },
+    "琪比摩丝": {
+        "cid": "c5444",
+        "roma": "Chibimoth",
+        "origin": "ちびもす",
+        "aliases": [
+            "琪比摩斯",
+            "摩斯",
+            "派罗",
+            "chibimoth"
+        ]
+    },
+    "帕尼": {
+        "cid": "c6289",
+        "roma": "Pani",
+        "origin": "ぱに",
+        "aliases": null
+    },
+    "志麻子": {
+        "cid": "c6290",
+        "roma": "Shimako",
+        "origin": "しまこ",
+        "aliases": [
+            "shimako"
+        ]
+    },
+    "今宫新": {
+        "cid": "c6291",
+        "roma": "Imamiya Arata",
+        "origin": "今宮 新",
+        "aliases": null
+    },
+    "井上晶": {
+        "cid": "c6292",
+        "roma": "Inoue Akira",
+        "origin": "井上 晶",
+        "aliases": null
+    },
+    "吉耳": {
+        "cid": "c11222",
+        "roma": "Gil",
+        "origin": "ぎる",
+        "aliases": null
+    },
+    "加岛樱": {
+        "cid": "c17427",
+        "roma": "Kashima Sakura",
+        "origin": "加島 桜",
+        "aliases": null
+    },
+    "亚斯茗": {
+        "cid": "c17428",
+        "roma": "Jasmine",
+        "origin": "ヤスミン",
+        "aliases": [
+            "jasmine"
+        ]
+    },
+    "高砂": {
+        "cid": "c138168",
+        "roma": "Takasago",
+        "origin": "高砂",
+        "aliases": null
+    },
+    "冬牙": {
+        "cid": "c138169",
+        "roma": "Winter Fang",
+        "origin": "冬牙",
+        "aliases": null
+    },
+    "智子": {
+        "cid": "c138170",
+        "roma": "Tomoko",
+        "origin": "ともこ",
+        "aliases": null
+    },
+    "路易斯": {
+        "cid": "c138171",
+        "roma": "Luis",
+        "origin": "ルイス",
+        "aliases": [
+            "luis"
+        ]
+    },
+    "神户圭介": {
+        "cid": "c138172",
+        "roma": "Kanbe Keisuke",
+        "origin": "神戸 圭介",
+        "aliases": [
+            "圭介"
+        ]
+    },
+    "神户理香子": {
+        "cid": "c138173",
+        "roma": "Kanbe Rikako",
+        "origin": "神戸 理香子",
+        "aliases": [
+            "理香子"
+        ]
+    },
+    "天津": {
+        "cid": "c138174",
+        "roma": "Tenjin",
+        "origin": "テンジン",
+        "aliases": null
+    },
+    "天麻": {
+        "cid": "c138175",
+        "roma": "Tenma",
+        "origin": "テンマ",
+        "aliases": null
+    },
+    "直枝理树": {
+        "cid": "c192",
+        "roma": "Naoe Riki",
+        "origin": "直枝 理樹",
+        "aliases": [
+            "理树",
+            "理树子",
+            "naoe",
+            "riki"
+        ]
+    },
+    "井之原真人": {
+        "cid": "c193",
+        "roma": "Inohara Masato",
+        "origin": "井ノ原 真人",
+        "aliases": [
+            "真人",
+            "肌肉",
+            "masato"
+        ]
+    },
+    "宫泽谦吾": {
+        "cid": "c194",
+        "roma": "Miyazawa Kengo",
+        "origin": "宮沢 謙吾",
+        "aliases": [
+            "谦吾",
+            "kengo"
+        ]
+    },
+    "枣恭介": {
+        "cid": "c201",
+        "roma": "Natsume Kyousuke",
+        "origin": "棗 恭介",
+        "aliases": [
+            "恭介",
+            "kyousuke"
+        ]
+    },
+    "枣铃": {
+        "cid": "c1863",
+        "roma": "Natsume Rin",
+        "origin": "棗 鈴",
+        "aliases": [
+            "铃",
+            "铃酱",
+            "rin"
+        ]
+    },
+    "三枝叶留佳": {
+        "cid": "c1864",
+        "roma": "Saigusa Haruka",
+        "origin": "三枝 葉留佳",
+        "aliases": [
+            "叶留佳",
+            "haruka",
+            "小叶子"
+        ]
+    },
+    "神北小毬": {
+        "cid": "c1865",
+        "roma": "Kamikita Komari",
+        "origin": "神北 小毬",
+        "aliases": [
+            "小毬",
+            "小球",
+            "神北小球",
+            "komari"
+        ]
+    },
+    "能美库特莉亚芙卡": {
+        "cid": "c1867",
+        "roma": "Noumi Kudryavka",
+        "origin": "能美 クドリャフカ",
+        "aliases": [
+            "库特",
+            "库特莉亚芙卡",
+            "能美",
+            "noumi"
+        ]
+    },
+    "二木佳奈多": {
+        "cid": "c1868",
+        "roma": "Futaki Kanata",
+        "origin": "二木 佳奈多",
+        "aliases": [
+            "佳奈多",
+            "kanata"
+        ]
+    },
+    "笹濑川佐佐美": {
+        "cid": "c1871",
+        "roma": "Sasasegawa Sasami",
+        "origin": "笹瀬川 佐々美",
+        "aliases": [
+            "佐佐美",
+            "sasami"
+        ]
+    },
+    "西园美鱼": {
+        "cid": "c1873",
+        "roma": "Nishizono Mio",
+        "origin": "西園 美魚",
+        "aliases": [
+            "美鱼"
+        ]
+    },
+    "来谷唯湖": {
+        "cid": "c1874",
+        "roma": "Kurugaya Yuiko",
+        "origin": "来ヶ谷 唯湖",
+        "aliases": [
+            "来谷"
+        ]
+    },
+    "朱鹭户沙耶": {
+        "cid": "c1875",
+        "roma": "Tokido Saya",
+        "origin": "朱鷺戸 沙耶",
+        "aliases": [
+            "沙耶",
+            "saya"
+        ]
+    },
+    "阿酱前辈": {
+        "cid": "c4874",
+        "roma": "Amano Akari",
+        "origin": "天野 洙浬",
+        "aliases": [
+            "阿酱",
+            "achan",
+            "a-chan"
+        ]
+    },
+    "神北小次郎": {
+        "cid": "c6696",
+        "roma": "Kamikita Kojirou",
+        "origin": "神北 小次郎",
+        "aliases": null
+    },
+    "西园美鸟": {
+        "cid": "c16639",
+        "roma": "Midori",
+        "origin": "美鳥",
+        "aliases": [
+            "美鸟"
+        ]
+    },
+    "多鲁基": {
+        "cid": "c26520",
+        "roma": "Dorj",
+        "origin": "ドルジ",
+        "aliases": null
+    },
+    "古式美雪": {
+        "cid": "c82152",
+        "roma": "Koshiki Miyuki",
+        "origin": "古式 みゆき",
+        "aliases": null
+    },
+    "川越令": {
+        "cid": "c84290",
+        "roma": "Kawagoe Rei",
+        "origin": "川越 令",
+        "aliases": null
+    },
+    "渡边咲子": {
+        "cid": "c84291",
+        "roma": "Watanabe Sakiko",
+        "origin": "渡辺 咲子",
+        "aliases": null
+    },
+    "中村由香里": {
+        "cid": "c84292",
+        "roma": "Nakamura Yukari",
+        "origin": "中村 由香里",
+        "aliases": null
+    },
+    "有月椎菜": {
+        "cid": "c4857",
+        "roma": "Arizuki Shiina",
+        "origin": "有月 椎菜",
+        "aliases": [
+            "椎菜"
+        ]
+    },
+    "冰室忧希": {
+        "cid": "c4873",
+        "roma": "Himuro Yuuki",
+        "origin": "氷室 憂希",
+        "aliases": [
+            "冰室尤希"
+        ]
+    },
+    "有月初": {
+        "cid": "c4875",
+        "roma": "Arizuki Ui",
+        "origin": "有月 初",
+        "aliases": null
+    },
+    "岩泽雅美": {
+        "cid": "c16284",
+        "roma": "Iwasawa Masami",
+        "origin": "岩沢 雅美",
+        "aliases": null
+    },
+    "松下护驒": {
+        "cid": "c16285",
+        "roma": "Matsushita Godan",
+        "origin": "松下 護騨",
+        "aliases": [
+            "松下",
+            "松下五段"
+        ]
+    },
+    "由依": {
+        "cid": "c16286",
+        "roma": "Yui",
+        "origin": "ユイ",
+        "aliases": [
+            "yui"
+        ]
+    },
+    "音无结弦": {
+        "cid": "c16857",
+        "roma": "Otonashi Yuzuru",
+        "origin": "音無 結弦",
+        "aliases": [
+            "音无",
+            "结弦"
+        ]
+    },
+    "仲村由理": {
+        "cid": "c16858",
+        "roma": "Nakamura Yuri",
+        "origin": "仲村 ゆり",
+        "aliases": [
+            "由理",
+            "百合",
+            "仲村百合",
+            "yuri"
+        ]
+    },
+    "立华奏": {
+        "cid": "c16859",
+        "roma": "Tachibana Kanade",
+        "origin": "立華 かなで",
+        "aliases": [
+            "奏",
+            "天使",
+            "kanade"
+        ]
+    },
+    "日向秀树": {
+        "cid": "c16860",
+        "roma": "Hinata Hideki",
+        "origin": "日向 秀樹",
+        "aliases": null
+    },
+    "渊田久子": {
+        "cid": "c25331",
+        "roma": "Fuchita Hisako",
+        "origin": "渕田 ひさ子",
+        "aliases": null
+    },
+    "查": {
+        "cid": "c25332",
+        "roma": "Char",
+        "origin": "チャー",
+        "aliases": null
+    },
+    "入江美雪": {
+        "cid": "c25333",
+        "roma": "Irie Miyuki",
+        "origin": "入江 みゆき",
+        "aliases": [
+            "美雪"
+        ]
+    },
+    "TK": {
+        "cid": "c25334",
+        "roma": "TK",
+        "origin": "None",
+        "aliases": null
+    },
+    "大山": {
+        "cid": "c25335",
+        "roma": "Ooyama",
+        "origin": "大山",
+        "aliases": null
+    },
+    "椎名": {
+        "cid": "c25336",
+        "roma": "Shiina",
+        "origin": "椎名",
+        "aliases": null
+    },
+    "高松": {
+        "cid": "c25337",
+        "roma": "Takamatsu",
+        "origin": "高松",
+        "aliases": null
+    },
+    "游佐": {
+        "cid": "c25338",
+        "roma": "Yusa",
+        "origin": "遊佐",
+        "aliases": null
+    },
+    "野田": {
+        "cid": "c25339",
+        "roma": "Noda",
+        "origin": "野田",
+        "aliases": null
+    },
+    "关根诗织": {
+        "cid": "c25340",
+        "roma": "Sekine Shiori",
+        "origin": "関根 しおり",
+        "aliases": null
+    },
+    "直井文人": {
+        "cid": "c25341",
+        "roma": "Naoi Ayato",
+        "origin": "直井 文人",
+        "aliases": null
+    },
+    "藤卷": {
+        "cid": "c25342",
+        "roma": "Fujimaki",
+        "origin": "藤巻",
+        "aliases": null
+    },
+    "竹山": {
+        "cid": "c25343",
+        "roma": "Takeyama",
+        "origin": "竹山",
+        "aliases": null
+    },
+    "分身天使": {
+        "cid": "c34593",
+        "roma": "Bunshin Tenshi",
+        "origin": "分身 天使",
+        "aliases": null
+    },
+    "齐藤": {
+        "cid": "c34594",
+        "roma": "Saitou",
+        "origin": "斉藤",
+        "aliases": null
+    },
+    "五十岚": {
+        "cid": "c34595",
+        "roma": "Igarashi",
+        "origin": "五十嵐",
+        "aliases": null
+    },
+    "音无初音": {
+        "cid": "c34596",
+        "roma": "Otonashi Hatsune",
+        "origin": "音無 初音",
+        "aliases": null
+    },
+    "阳菜子": {
+        "cid": "c34670",
+        "roma": "Hinako",
+        "origin": "陽菜子",
+        "aliases": null
+    },
+    "提比": {
+        "cid": "c39070",
+        "roma": "Tipi",
+        "origin": "ティピィ",
+        "aliases": [
+            "tipi",
+            "tibi"
+        ]
+    },
+    "汐奈": {
+        "cid": "c39071",
+        "roma": "Shiona",
+        "origin": "シオナ",
+        "aliases": null
+    },
+    "Rei": {
+        "cid": "c39072",
+        "roma": "Rei",
+        "origin": "レイ",
+        "aliases": null
+    },
+    "马德": {
+        "cid": "c52150",
+        "roma": "Madd",
+        "origin": "マッド",
+        "aliases": null
+    },
+    "鹰原羽依里": {
+        "cid": "c55090",
+        "roma": "Takahara Hairi",
+        "origin": "鷹原 羽依里",
+        "aliases": [
+            "羽依里",
+            "hairi",
+            "嗨梨"
+        ]
+    },
+    "鸣濑白羽": {
+        "cid": "c55091",
+        "roma": "Naruse Shiroha",
+        "origin": "鳴瀬 しろは",
+        "aliases": [
+            "白羽",
+            "shiroha"
+        ]
+    },
+    "久岛鸥": {
+        "cid": "c55092",
+        "roma": "Kushima Kamome",
+        "origin": "久島 鴎",
+        "aliases": [
+            "鸥"
+        ]
+    },
+    "空门苍": {
+        "cid": "c55093",
+        "roma": "Sorakado Ao",
+        "origin": "空門 蒼",
+        "aliases": [
+            "苍"
+        ]
+    },
+    "紬文德斯": {
+        "cid": "c55094",
+        "roma": "Tsumugi Wenders",
+        "origin": "紬 ヴェンダース",
+        "aliases": [
+            "紬",
+            "姆Q"
+        ]
+    },
+    "三谷良一": {
+        "cid": "c68279",
+        "roma": "Mitani Ryouichi",
+        "origin": "三谷 良一",
+        "aliases": [
+            "良一"
+        ]
+    },
+    "加纳天善": {
+        "cid": "c68280",
+        "roma": "Kanou Tenzen",
+        "origin": "加納 天善",
+        "aliases": [
+            "天善"
+        ]
+    },
+    "野村美希": {
+        "cid": "c68281",
+        "roma": "Nomura Miki",
+        "origin": "野村 美希",
+        "aliases": [
+            "美希"
+        ]
+    },
+    "水织静久": {
+        "cid": "c68282",
+        "roma": "Mizuori Shizuku",
+        "origin": "水織 静久",
+        "aliases": [
+            "静久"
+        ]
+    },
+    "加藤羽未": {
+        "cid": "c68283",
+        "roma": "Katou Umi",
+        "origin": "加藤 うみ",
+        "aliases": [
+            "羽未",
+            "海己",
+            "umi",
+            "うみ",
+            "鹰原羽未"
+        ]
+    },
+    "岬镜子": {
+        "cid": "c68284",
+        "roma": "Misaki Kyouko",
+        "origin": "岬 鏡子",
+        "aliases": [
+            "镜子"
+        ]
+    },
+    "鸣濑小鸠": {
+        "cid": "c68285",
+        "roma": "Naruse Kobato",
+        "origin": "鳴瀬 小鳩",
+        "aliases": [
+            "小鸠"
+        ]
+    },
+    "稻荷": {
+        "cid": "c68286",
+        "roma": "Inari",
+        "origin": "イナリ",
+        "aliases": null
+    },
+    "久岛鹭": {
+        "cid": "c72220",
+        "roma": "Kushima Sagi",
+        "origin": "久島 鷺",
+        "aliases": null
+    },
+    "空门蓝": {
+        "cid": "c72286",
+        "roma": "Sorakado Ai",
+        "origin": "空門 藍",
+        "aliases": [
+            "蓝"
+        ]
+    },
+    "七海": {
+        "cid": "c72287",
+        "roma": "Nanami",
+        "origin": "七海",
+        "aliases": [
+            "nanami"
+        ]
+    },
+    "神山识": {
+        "cid": "c87360",
+        "roma": "Kamiyama Shiki",
+        "origin": "神山 識",
+        "aliases": [
+            "识",
+            "shiki"
+        ]
+    },
+    "町村玲央奈": {
+        "cid": "c94397",
+        "roma": "Machimura Reona",
+        "origin": "町村 玲央奈",
+        "aliases": null
+    },
+    "藤川美亚": {
+        "cid": "c94398",
+        "roma": "Fujikawa Mia",
+        "origin": "藤川 みあ",
+        "aliases": [
+            "美亚",
+            "mia"
+        ]
+    },
+    "昼田贵理子": {
+        "cid": "c94399",
+        "roma": "Hiruda Kiriko",
+        "origin": "昼田 貴理子",
+        "aliases": null
+    },
+    "平良明": {
+        "cid": "c94400",
+        "roma": "Taira Akira",
+        "origin": "平良 明",
+        "aliases": null
+    },
+    "西门贵明": {
+        "cid": "c94401",
+        "roma": "Saimon Takaaki",
+        "origin": "西門 貴明",
+        "aliases": null
+    },
+    "雾岛让": {
+        "cid": "c94402",
+        "roma": "Kirishima Jou",
+        "origin": "霧島 譲",
+        "aliases": null
+    },
+    "堀井佐奈": {
+        "cid": "c94403",
+        "roma": "Horii Sana",
+        "origin": "堀井 佐奈",
+        "aliases": null
+    },
+    "利田美咲": {
+        "cid": "c94404",
+        "roma": "Rita Misaki",
+        "origin": "利田 美咲",
+        "aliases": null
+    },
+    "手塚咲": {
+        "cid": "c104390",
+        "roma": "Tezuka Saki",
+        "origin": "手塚 咲",
+        "aliases": null
+    },
+    "七濑七海": {
+        "cid": "c104391",
+        "roma": "Nanase Nanami",
+        "origin": "七瀬 七海",
+        "aliases": [
+            "nanamin"
+        ]
+    },
+    "浅见真纪子": {
+        "cid": "c104392",
+        "roma": "Asami Makiko",
+        "origin": "浅見 真紀子",
+        "aliases": null
+    },
+    "茅森月歌": {
+        "cid": "c104393",
+        "roma": "Kayamori Ruka",
+        "origin": "茅森 月歌",
+        "aliases": [
+            "月歌",
+            "ruka"
+        ]
+    },
+    "和泉由希": {
+        "cid": "c104394",
+        "roma": "Izumi Yuki",
+        "origin": "和泉 ユキ",
+        "aliases": [
+            "由希",
+            "yuki"
+        ]
+    },
+    "逢川惠": {
+        "cid": "c104395",
+        "roma": "Aikawa Megumi",
+        "origin": "逢川 めぐみ",
+        "aliases": [
+            "惠",
+            "megumi"
+        ]
+    },
+    "东城司": {
+        "cid": "c104396",
+        "roma": "Toujou Tsukasa",
+        "origin": "東城 つかさ",
+        "aliases": [
+            "司",
+            "tsukasa"
+        ]
+    },
+    "朝仓可怜": {
+        "cid": "c104397",
+        "roma": "Asakura Karen",
+        "origin": "朝倉 可憐",
+        "aliases": [
+            "可怜",
+            "可怜怜",
+            "可怜酱",
+            "karen"
+        ]
+    },
+    "国见玉": {
+        "cid": "c104398",
+        "roma": "Kunimi Tama",
+        "origin": "國見 タマ",
+        "aliases": [
+            "小玉",
+            "tama"
+        ]
+    },
+    "苍井绘梨花": {
+        "cid": "c104400",
+        "roma": "Aoi Erika",
+        "origin": "蒼井 えりか",
+        "aliases": [
+            "苍井",
+            "aoi"
+        ]
+    },
+    "白虎": {
+        "cid": "c104401",
+        "roma": "Byakko",
+        "origin": "ビャッコ",
+        "aliases": null
+    },
+    "水濑莓": {
+        "cid": "c104422",
+        "roma": "Minase Ichigo",
+        "origin": "水瀬 いちご",
+        "aliases": null
+    },
+    "水濑李": {
+        "cid": "c104425",
+        "roma": "Minase Sumomo",
+        "origin": "水瀬 すもも",
+        "aliases": null
+    },
+    "樋口圣华": {
+        "cid": "c104426",
+        "roma": "Higuchi Seika",
+        "origin": "樋口 聖華",
+        "aliases": null
+    },
+    "柊木梢": {
+        "cid": "c104427",
+        "roma": "Hiiragi Kozue",
+        "origin": "柊木 梢",
+        "aliases": null
+    },
+    "山胁邦伊瓦尔": {
+        "cid": "c104428",
+        "roma": "Yamawaki Bon Ivar",
+        "origin": "山脇・ボン・ イヴァール",
+        "aliases": [
+            "山胁"
+        ]
+    },
+    "樱庭星罗": {
+        "cid": "c104429",
+        "roma": "Sakuraba Seira",
+        "origin": "桜庭 星羅",
+        "aliases": [
+            "星罗"
+        ]
+    },
+    "天音巫呼": {
+        "cid": "c104430",
+        "roma": "Tenne Miko",
+        "origin": "天音 巫呼",
+        "aliases": null
+    },
+    "丰厚弥生": {
+        "cid": "c104431",
+        "roma": "Bungo Yayoi",
+        "origin": "豊後 弥生",
+        "aliases": [
+            "丰后弥生"
+        ]
+    },
+    "神崎阿黛尔海德": {
+        "cid": "c104432",
+        "roma": "Kanzaki Adelheid",
+        "origin": "神崎 アーデルハイド",
+        "aliases": [
+            "神崎"
+        ]
+    },
+    "佐月麻里": {
+        "cid": "c104433",
+        "roma": "Satsuki Mari",
+        "origin": "佐月 マリ",
+        "aliases": [
+            "麻里",
+            "mari"
+        ]
+    },
+    "白河结奈": {
+        "cid": "c104434",
+        "roma": "Shirakawa Yuina",
+        "origin": "白河 ユイナ",
+        "aliases": [
+            "白河由依奈",
+            "由依奈"
+        ]
+    },
+    "月城最中": {
+        "cid": "c104435",
+        "roma": "Tsukishiro Monaka",
+        "origin": "月城 最中",
+        "aliases": [
+            "月城"
+        ]
+    },
+    "桐生美也": {
+        "cid": "c104436",
+        "roma": "Kiryuu Miya",
+        "origin": "桐生 美也",
+        "aliases": null
+    },
+    "菅原千惠": {
+        "cid": "c104437",
+        "roma": "Sugawara Chie",
+        "origin": "菅原 千恵",
+        "aliases": [
+            "洛丽塔"
+        ]
+    },
+    "小笠原绯雨": {
+        "cid": "c104438",
+        "roma": "Ogasahara Hisame",
+        "origin": "小笠原 緋雨",
+        "aliases": null
+    },
+    "藏里见": {
+        "cid": "c104439",
+        "roma": "Kura Satomi",
+        "origin": "蔵 里見",
+        "aliases": null
+    },
+    "二阶堂三乡": {
+        "cid": "c104440",
+        "roma": "Nikaidou Misato",
+        "origin": "二階堂 三郷",
+        "aliases": null
+    },
+    "石井色叶": {
+        "cid": "c104441",
+        "roma": "Ishii Iroha",
+        "origin": "石井 色葉",
+        "aliases": null
+    },
+    "命吹雪": {
+        "cid": "c104442",
+        "roma": "Mikoto Fubuki",
+        "origin": "命 吹雪",
+        "aliases": null
+    },
+    "室伏理沙": {
+        "cid": "c104443",
+        "roma": "Murofushi Risa",
+        "origin": "室伏 理沙",
+        "aliases": null
+    },
+    "伊达朱里": {
+        "cid": "c104444",
+        "roma": "Date Akari",
+        "origin": "伊達 朱里",
+        "aliases": null
+    },
+    "瑞原蓝娜": {
+        "cid": "c104445",
+        "roma": "Mizuhara Aina",
+        "origin": "瑞原 あいな",
+        "aliases": [
+            "鱼鱼"
+        ]
+    },
+    "大岛一千子": {
+        "cid": "c104446",
+        "roma": "Ooshima Ichiko",
+        "origin": "大島 一千子",
+        "aliases": [
+            "一千子"
+        ]
+    },
+    "柳美音": {
+        "cid": "c104447",
+        "roma": "Yanagi Mion",
+        "origin": "柳 美音",
+        "aliases": null
+    },
+    "卡罗尔利帕": {
+        "cid": "c104448",
+        "roma": "Carole Reaper",
+        "origin": "キャロル・リーパー",
+        "aliases": [
+            "卡罗尔"
+        ]
+    },
+    "大岛二以奈": {
+        "cid": "c104455",
+        "roma": "Ooshima Niina",
+        "origin": "大島 二以奈",
+        "aliases": [
+            "二以奈"
+        ]
+    },
+    "大岛三野里": {
+        "cid": "c104456",
+        "roma": "Ooshima Minori",
+        "origin": "大島 三野里",
+        "aliases": [
+            "三野里"
+        ]
+    },
+    "大岛四叶草": {
+        "cid": "c104457",
+        "roma": "Ooshima Yotsuha",
+        "origin": "大島 四ツ葉",
+        "aliases": [
+            "四叶草",
+            "四妹"
+        ]
+    },
+    "大岛五十铃": {
+        "cid": "c104458",
+        "roma": "Ooshima Isuzu",
+        "origin": "大島 五十鈴",
+        "aliases": [
+            "五十铃",
+            "500"
+        ]
+    },
+    "大岛六宇亚": {
+        "cid": "c104459",
+        "roma": "Ooshima Muua",
+        "origin": "大島 六宇亜",
+        "aliases": [
+            "六宇亚",
+            "六妹"
+        ]
+    },
+    "丸山奏多": {
+        "cid": "c104460",
+        "roma": "Maruyama Kanata",
+        "origin": "丸山 奏多",
+        "aliases": null
+    },
+    "华村诗纪": {
+        "cid": "c104461",
+        "roma": "Hanamura Shiki",
+        "origin": "華村 詩紀",
+        "aliases": null
+    },
+    "松岗绮罗路": {
+        "cid": "c104462",
+        "roma": "Matsuoka Chiroru",
+        "origin": "松岡 チロル",
+        "aliases": null
+    },
+    "夏目祈": {
+        "cid": "c104463",
+        "roma": "Natsume Inori",
+        "origin": "夏目 祈",
+        "aliases": null
+    },
+    "黑泽真希": {
+        "cid": "c104464",
+        "roma": "Kurosawa Maki",
+        "origin": "黒沢 真希",
+        "aliases": null
+    },
+    "李映夏": {
+        "cid": "c104465",
+        "roma": "Li Yingxia",
+        "origin": "李映夏",
+        "aliases": [
+            "孔明"
+        ]
+    },
+    "艾琳雷顿明": {
+        "cid": "c104466",
+        "roma": "Irene Redmayne",
+        "origin": "アイリーン・ レドメイン",
+        "aliases": null
+    },
+    "芙里提卡": {
+        "cid": "c104467",
+        "roma": "Vritika Balakrishnan",
+        "origin": "ヴリティカ・ バラクリシュナン",
+        "aliases": null
+    },
+    "玛丽亚": {
+        "cid": "c104468",
+        "roma": "Maria de Angelis",
+        "origin": "マリア・デ・ アンジェリス",
+        "aliases": [
+            "修女"
+        ]
+    },
+    "夏洛特": {
+        "cid": "c104469",
+        "roma": "Charlotta Skopovskaya",
+        "origin": "シャルロッタ・ スコポフスカヤ",
+        "aliases": null
+    },
+    "灰樱": {
+        "cid": "c94291",
+        "roma": "Haizakura",
+        "origin": "灰桜",
+        "aliases": null
+    },
+    "月下": {
+        "cid": "c94292",
+        "roma": "Gekka",
+        "origin": "月下",
+        "aliases": null
+    },
+    "鸦羽": {
+        "cid": "c94293",
+        "roma": "Karasuba",
+        "origin": "鴉羽",
+        "aliases": null
+    },
+    "箒星": {
+        "cid": "c94424",
+        "roma": "Houkiboshi",
+        "origin": "箒星",
+        "aliases": null
+    },
+    "远间": {
+        "cid": "c123079",
+        "roma": "Tooma Nagi",
+        "origin": "遠間 ナギ",
+        "aliases": null
+    },
+    "奥宫": {
+        "cid": "c123080",
+        "roma": "Okunomiya Otome",
+        "origin": "奥宮 おとめ",
+        "aliases": null
+    },
+    "莉莉亚": {
+        "cid": "c124896",
+        "roma": "Riria",
+        "origin": "リリア",
+        "aliases": null
+    },
+    "罗莎": {
+        "cid": "c124897",
+        "roma": "Rosa",
+        "origin": "ローサ",
+        "aliases": null
+    },
+    "雪羽": {
+        "cid": "c124898",
+        "roma": "Yukiha",
+        "origin": "雪羽",
+        "aliases": null
+    },
+    "辻仓朱比华": {
+        "cid": "c133787",
+        "roma": "Tsujikura Spica",
+        "origin": "辻倉 朱比華",
+        "aliases": [
+            "朱比华"
+        ]
+    },
+    "白渡小咏": {
+        "cid": "c133788",
+        "roma": "Shirato Koyomi",
+        "origin": "白渡 小詠",
+        "aliases": [
+            "小咏"
+        ]
+    },
+    "淡雪阳彩": {
+        "cid": "c133789",
+        "roma": "Awayuki Hiiro",
+        "origin": "淡雪 陽彩",
+        "aliases": [
+            "阳彩"
+        ]
+    },
+    "速川六花": {
+        "cid": "c133790",
+        "roma": "Hayakawa Rikka",
+        "origin": "速川 六花",
+        "aliases": [
+            "六花"
+        ]
+    },
+    "总羽爱乃": {
+        "cid": "c133791",
+        "roma": "Fusaba Aino",
+        "origin": "総羽 愛乃",
+        "aliases": [
+            "爱乃"
+        ]
+    },
+    "花押つづら": {
+        "cid": "c133823",
+        "roma": "Kaou Tsuzura",
+        "origin": "花押つづら",
+        "aliases": [
+            "花押"
+        ]
+    },
+    "尾道文弥": {
+        "cid": "c133828",
+        "roma": "Onomichi Fumiya",
+        "origin": "尾道文弥",
+        "aliases": null
+    },
+    "敦澤塁": {
+        "cid": "c133829",
+        "roma": "Atsuzawa Rui",
+        "origin": "敦澤塁",
+        "aliases": null
+    },
+    "鉱玖琉未": {
+        "cid": "c133831",
+        "roma": "Aragane Kurumi",
+        "origin": "鉱玖琉未",
+        "aliases": null
+    },
+    "速川麦": {
+        "cid": "c138953",
+        "roma": "Hayakawa Mugi",
+        "origin": "速川 麦",
+        "aliases": null
+    }
+}
