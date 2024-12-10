@@ -1,0 +1,6 @@
+/home/ubuntu/Yumemi-Bot/src/plugins/GroupSummary/__init__.py:43: RuntimeWarning: coroutine 'Matcher.finish' was never awaited
+  chat_event.finish("测试期间，仅允许bot管理者使用此功能。")
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+/home/ubuntu/Yumemi-Bot/src/plugins/GroupSummary/__init__.py:52: RuntimeWarning: coroutine 'Matcher.finish' was never awaited
+  chat_event.finish(f"今日群聊内容总结如下：(By claude-3-5-haiku-20241022)\n {reponse}")
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback

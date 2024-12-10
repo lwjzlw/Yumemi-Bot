@@ -9,6 +9,7 @@ import os
 from .sys_msg import system_message
 from anthropic import Anthropic
 from nonebot.adapters.onebot.v11 import (
+    Bot,
     GroupMessageEvent,
     GROUP,
     Message,

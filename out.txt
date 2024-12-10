@@ -1,0 +1,52 @@
+12-10 21:39:27 [SUCCESS] nonebot | NoneBot is initializing...
+12-10 21:39:27 [INFO] nonebot | Current Env: prod
+12-10 21:39:27 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_apscheduler"
+12-10 21:39:27 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_localstore"
+12-10 21:39:27 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_orm"
+12-10 21:39:27 [ERROR] nonebot | Failed to import "nonebot_plugin_chatrecoder"
+Traceback (most recent call last):
+  File "/home/ubuntu/Yumemi-Bot/bot.py", line 15, in <module>
+    nonebot.load_plugin("nonebot_plugin_chatrecoder")
+  File "/home/ubuntu/anaconda3/envs/yumemi/lib/python3.11/site-packages/nonebot/plugin/load.py", line 42, in load_plugin
+    return manager.load_plugin(module_path)
+> File "/home/ubuntu/anaconda3/envs/yumemi/lib/python3.11/site-packages/nonebot/plugin/manager.py", line 169, in load_plugin
+    module = importlib.import_module(self._third_party_plugin_ids[name])
+  File "/home/ubuntu/anaconda3/envs/yumemi/lib/python3.11/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 1206, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 1178, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1142, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'nonebot_plugin_chatrecoder'
+12-10 21:39:27 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_session"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_datastore"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "photo" from "src.plugins.photo"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "GroupWelcome" from "src.plugins.GroupWelcome"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "echo" from "src.plugins.echo"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "KeyProphecy" from "src.plugins.KeyProphecy"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "vndb" from "src.plugins.vndb"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "birthday" from "src.plugins.birthday"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_session_orm"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "nonebot_plugin_chatrecorder"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "GroupSummary" from "src.plugins.GroupSummary"
+12-10 21:39:28 [SUCCESS] nonebot | Succeeded to load plugin "chat" from "src.plugins.chat"
+12-10 21:39:28 [SUCCESS] nonebot | Running NoneBot...
+12-10 21:39:28 [INFO] uvicorn | Started server process [270241]
+12-10 21:39:28 [INFO] uvicorn | Waiting for application startup.
+12-10 21:39:28 [INFO] nonebot_plugin_apscheduler | Scheduler Started
+12-10 21:39:28 [INFO] nonebot_plugin_orm | 没有检测到新的升级操作
+12-10 21:39:28 [INFO] nonebot_plugin_datastore | 数据库初始化完成
+12-10 21:39:28 [INFO] uvicorn | Application startup complete.
+12-10 21:39:28 [INFO] uvicorn | Uvicorn running on http://127.0.0.1:1270 (Press CTRL+C to quit)
+12-10 21:39:32 [INFO] uvicorn | ('127.0.0.1', 59492) - "WebSocket /onebot/v11/ws" [accepted]
+12-10 21:39:32 [INFO] nonebot | OneBot V11 | Bot 2544412429 connected
+12-10 21:39:32 [INFO] websockets | connection open
+12-10 21:40:18 [SUCCESS] nonebot | OneBot V11 2544412429 | [message.group.normal]: Message 1569318085 from 295259537@[群:655589978] '#总结'
+12-10 21:40:18 [INFO] nonebot | Event will be handled by Matcher(type='message', module=src.plugins.GroupSummary, lineno=35)
+12-10 21:40:20 [INFO] nonebot | Matcher(type='message', module=src.plugins.GroupSummary, lineno=35) running complete
+12-10 21:40:46 [INFO] uvicorn | Shutting down
+12-10 21:40:46 [WARNING] nonebot | OneBot V11 | WebSocket for Bot 2544412429 closed by peer
+12-10 21:40:46 [INFO] websockets | connection closed
+12-10 21:40:47 [INFO] uvicorn | Waiting for application shutdown.
+12-10 21:40:47 [INFO] nonebot_plugin_apscheduler | Scheduler Shutdown
+12-10 21:40:47 [INFO] uvicorn | Application shutdown complete.
+12-10 21:40:47 [INFO] uvicorn | Finished server process [270241]
