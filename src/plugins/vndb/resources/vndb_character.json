@@ -5,7 +5,10 @@
         "origin": "月宮 あゆ",
         "aliases": [
             "亚由",
-            "Ayu"
+            "Ayu",
+            "ayuayu",
+            "ayu",
+            "呜咕"
         ]
     },
     "水濑名雪": {
@@ -23,7 +26,9 @@
         "origin": "沢渡 真琴",
         "aliases": [
             "真琴",
-            "makoto"
+            "makoto",
+            "狐狸",
+            "小狐狸"
         ]
     },
     "美坂栞": {
@@ -65,7 +70,12 @@
         "cid": "c2942",
         "roma": "Kurata Sayuri",
         "origin": "倉田 佐祐理",
-        "aliases": null
+        "aliases": [
+            "佐佑理",
+            "佐祐理",
+            "sayuri",
+            "啊哈哈"
+        ]
     },
     "水濑秋子": {
         "cid": "c2943",
@@ -140,7 +150,8 @@
         "roma": "Kamio Haruko",
         "origin": "神尾 晴子",
         "aliases": [
-            "晴子"
+            "晴子",
+            "晴子阿姨"
         ]
     },
     "橘敬介": {
@@ -197,7 +208,9 @@
         "origin": "一ノ瀬 ことみ",
         "aliases": [
             "琴美",
-            "kotomi"
+            "kotomi",
+            "琴美酱",
+            "kotomichan"
         ]
     },
     "冈崎朋也": {
@@ -216,7 +229,8 @@
         "aliases": [
             "渚",
             "小渚",
-            "nagisa"
+            "nagisa",
+            "冈崎渚"
         ]
     },
     "坂上智代": {
@@ -225,7 +239,8 @@
         "origin": "坂上 智代",
         "aliases": [
             "智代",
-            "tomoyo"
+            "tomoyo",
+            "智代大炮"
         ]
     },
     "伊吹风子": {
@@ -243,7 +258,8 @@
         "roma": "Fujibayashi Kyou",
         "origin": "藤林 杏",
         "aliases": [
-            "杏"
+            "杏",
+            "kyou"
         ]
     },
     "春原阳平": {
@@ -260,7 +276,10 @@
         "roma": "Fujibayashi Ryou",
         "origin": "藤林 椋",
         "aliases": [
-            "椋"
+            "椋",
+            "藤林",
+            "lyou",
+            "ryou"
         ]
     },
     "坂上鹰文": {
@@ -275,7 +294,8 @@
         "origin": "宮沢 有紀寧",
         "aliases": [
             "有纪宁",
-            "yukine"
+            "yukine",
+            "大姐头"
         ]
     },
     "相乐美佐枝": {
@@ -290,7 +310,10 @@
         "cid": "c15852",
         "roma": "Yoshino Yuusuke",
         "origin": "芳野 祐介",
-        "aliases": null
+        "aliases": [
+            "扳手"
+        ]
+
     },
     "伊吹公子": {
         "cid": "c15853",
@@ -310,7 +333,8 @@
         "origin": "古河 早苗",
         "aliases": [
             "早苗",
-            "早苗阿姨"
+            "早苗阿姨",
+            "苗苗"
         ]
     },
     "冈崎直幸": {
@@ -326,7 +350,8 @@
         "roma": "Furukawa Akio",
         "origin": "古河 秋生",
         "aliases": [
-            "秋生"
+            "秋生",
+            "阿秋"
         ]
     },
     "春原芽衣": {
@@ -398,7 +423,9 @@
         "cid": "c441",
         "roma": "Hoshino Yumemi",
         "origin": "ほしのゆめみ",
-        "aliases": null
+        "aliases": [
+            "梦美"
+        ]
     },
     "河南子": {
         "cid": "c15848",
@@ -435,7 +462,8 @@
         "aliases": [
             "瑚太朗",
             "瑚太郎",
-            "天王寺"
+            "天王寺",
+            "灰太狼"
         ]
     },
     "中津静流": {
@@ -453,7 +481,8 @@
         "roma": "Senri Akane",
         "origin": "千里 朱音",
         "aliases": [
-            "朱音"
+            "朱音",
+            "会长"
         ]
     },
     "此花露西娅": {
@@ -461,7 +490,8 @@
         "roma": "Konohana Lucia",
         "origin": "此花 ルチア",
         "aliases": [
-            "露西娅"
+            "露西娅",
+            "班长"
         ]
     },
     "凤千早": {
@@ -470,7 +500,8 @@
         "origin": "鳳 ちはや",
         "aliases": [
             "大鸟",
-            "千早"
+            "千早",
+            "chihaya"
         ]
     },
     "吉野晴彦": {
@@ -557,7 +588,10 @@
         "cid": "c6292",
         "roma": "Inoue Akira",
         "origin": "井上 晶",
-        "aliases": null
+        "aliases": [
+            "井上",
+            "文文"
+        ]
     },
     "吉耳": {
         "cid": "c11222",
@@ -651,7 +685,8 @@
         "aliases": [
             "真人",
             "肌肉",
-            "masato"
+            "masato",
+            "筋肉"
         ]
     },
     "宫泽谦吾": {
@@ -837,7 +872,10 @@
         "cid": "c16284",
         "roma": "Iwasawa Masami",
         "origin": "岩沢 雅美",
-        "aliases": null
+        "aliases": [
+            "岩泽",
+            "雅美"
+        ]
     },
     "松下护驒": {
         "cid": "c16285",
@@ -853,7 +891,8 @@
         "roma": "Yui",
         "origin": "ユイ",
         "aliases": [
-            "yui"
+            "yui",
+            "唯"
         ]
     },
     "音无结弦": {
@@ -884,19 +923,24 @@
             "奏",
             "天使",
             "kanade"
-        ]
+                    ]
     },
     "日向秀树": {
         "cid": "c16860",
         "roma": "Hinata Hideki",
         "origin": "日向 秀樹",
-        "aliases": null
+        "aliases": [
+            "日向",
+            "秀树"
+        ]
     },
     "渊田久子": {
         "cid": "c25331",
         "roma": "Fuchita Hisako",
         "origin": "渕田 ひさ子",
-        "aliases": null
+        "aliases": [
+            "久子"
+        ]
     },
     "查": {
         "cid": "c25332",
@@ -909,7 +953,8 @@
         "roma": "Irie Miyuki",
         "origin": "入江 みゆき",
         "aliases": [
-            "美雪"
+            "美雪",
+            "入江"
         ]
     },
     "TK": {
@@ -1015,13 +1060,20 @@
         "cid": "c39071",
         "roma": "Shiona",
         "origin": "シオナ",
-        "aliases": null
+        "aliases": [
+            "shiona",
+            "诗音那",
+            "Shiona"
+        ]
     },
     "Rei": {
         "cid": "c39072",
         "roma": "Rei",
         "origin": "レイ",
-        "aliases": null
+        "aliases": [
+            "rei",
+            "黎"
+        ]
     },
     "马德": {
         "cid": "c52150",
@@ -1070,7 +1122,8 @@
         "origin": "紬 ヴェンダース",
         "aliases": [
             "紬",
-            "姆Q"
+            "姆Q",
+            "tsumugi"
         ]
     },
     "三谷良一": {
