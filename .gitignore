@@ -1,1 +1,12 @@
 __pycache__/
+.venv/
+.env
+.codex
+.tmp/
+temp.fuuko
+qrcode.png
+resource/recent_errors.json
+resource/chat_token_usage.jsonl*
+resource/rob_wife_success.json
+resource/chat_memory_cache.json*
+resource/chat_agent_memory.jsonl*
