@@ -6,7 +6,7 @@
 
 - 项目是 NoneBot2 + OneBot V11 + NapCat 的 QQ 群聊机器人。
 - 主运行环境已经迁移到阿里云 ECS，本地 WSL 主要用于开发、图库整理和同步云端。
-- 当前工作区不是干净状态，继续前必须先看 `git status --short`，不要随意回退用户未提交改动。
+- 当前维护分支是 `maintenance-2026-06-07`，已推送到 origin；继续前仍必须先看 `git status --short`，不要随意回退用户未提交改动。
 - `README.md` 已更新为当前入口说明，但详细交接仍以本文件为准。
 - 云端信息、SSH、systemd 服务见 `README_CLOUD.md`。
 
@@ -22,6 +22,11 @@
   - 文档/工作台/云端同步工具。
   - chat agent、token usage、provider 配置与群聊记忆。
   - photo/vndb/birthday/KeyProphecy/logview/error history/角色数据。
+- 实际已推送提交：
+  - `97a58d6 Add Yumemi maintenance docs and tools`
+  - `e648f94 Add Yumemi chat agent support`
+  - `799b916 Update Yumemi bot plugins`
+- 当前 `maintenance-2026-06-07` 工作区已整理为干净状态；如需合回主线，优先从该分支开 PR 或手工 merge。
 
 ### 2026-05-22
 
