@@ -25,6 +25,10 @@ class Prophecy():
     def getLuckyPoint(self) -> int:
         random.seed(self.seed(f"lukcypoint_{self.variant_seed}"))
         return random.randint(0, 100)
+
+    def getRobSuccessRoll(self, denominator: int = 500) -> int:
+        random.seed(self.seed(f"rob_success_{self.variant_seed}"))
+        return random.randint(1, denominator)
         
     def getHeroine(self) -> str:
         random.seed(self.seed(f"heroine_{self.variant_seed}"))

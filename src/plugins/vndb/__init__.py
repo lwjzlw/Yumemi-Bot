@@ -1,5 +1,5 @@
 import nonebot
-from nonebot import get_plugin_config
+from nonebot import get_plugin_config, logger
 from nonebot.plugin import PluginMetadata
 from nonebot.adapters import Message
 from nonebot.params import CommandArg
@@ -7,6 +7,7 @@ from nonebot.matcher import Matcher
 from nonebot import require
 from nonebot.exception import FinishedException
 import json
+import random
 import subprocess
 import traceback
 from nonebot_plugin_apscheduler import scheduler
@@ -22,6 +23,8 @@ from src.utils.character_data import (
     list_character_images,
     normalize_lookup_text,
 )
+from src.utils.error_history import record_recent_error
+from src.utils.error_history import describe_exception_reason, extract_exception_details
 from nonebot.adapters.onebot.v11 import (
     GroupMessageEvent,
     GROUP,
@@ -29,6 +32,7 @@ from nonebot.adapters.onebot.v11 import (
     MessageSegment,
     Bot
 )
+from nonebot.adapters.onebot.v11.exception import ActionFailed, ApiNotAvailable, NetworkError
 
 
 __plugin_usage__ = f"""
@@ -44,6 +48,30 @@ __plugin_meta__ = PluginMetadata(
 )
 
 config = get_plugin_config(PluginConfig)
+
+
+def record_vndb_error(
+    *,
+    raw_input: str,
+    error: Exception,
+    user_id: str = "",
+    group_id: str = "",
+    extra_details: dict[str, str] | None = None,
+    reason_action: str = "查询",
+) -> None:
+    details = {
+        "user_id": user_id,
+        "group_id": group_id,
+        **extract_exception_details(error),
+    }
+    if extra_details:
+        details.update(extra_details)
+    record_recent_error(
+        command="查询",
+        raw_input=raw_input,
+        reason=describe_exception_reason(reason_action, error),
+        details=details,
+    )
 
 def get_name_cid(name: str) -> Tuple[str, str]:
     profile = get_character_profile(name, config.character_json_path)
@@ -121,13 +149,10 @@ def get_vndb(cid: str):
     "fields": "name, original, image.url, height, weight, bust, waist, hips, cup, age, birthday, vns.title"
     }}'
     '''
-    try:
-        response = subprocess.check_output(cmd, shell=True, text=True)
-        response = json.loads(response)
-        result = response["results"][0]
-        return result
-    except Exception as e:
-        return None
+    response = subprocess.check_output(cmd, shell=True, text=True)
+    response = json.loads(response)
+    result = response["results"][0]
+    return result
     
 
 
@@ -137,6 +162,7 @@ query_by_name = nonebot.on_command("查询", aliases={"角色"}, priority=10, bl
 @query_by_name.handle()
 async def _(bot: Bot, matcher: Matcher, event: GroupMessageEvent, args: Message=CommandArg()):
     user_id = str(event.get_user_id())
+    group_id = str(event.group_id)
     args: str = args.extract_plain_text()
     if not args:
         await query_by_name.finish("请输入查询的角色名！")
@@ -158,11 +184,26 @@ async def _(bot: Bot, matcher: Matcher, event: GroupMessageEvent, args: Message=
 
             image_list = list_character_images(name, config.image_base_folder)
             if image_list:
-                msg += MessageSegment.image(image_list[0])
+                msg += MessageSegment.image(random.choice(image_list))
 
             data = None
             if should_query_vndb(profile):
-                data = get_vndb(profile.cid)
+                try:
+                    data = get_vndb(profile.cid)
+                except Exception as error:
+                    logger.warning(
+                        "VNDB supplement fetch failed, fallback to local profile only: "
+                        f"user_id={user_id}, group_id={group_id}, cid={profile.cid}, error={repr(error)}"
+                    )
+                    record_vndb_error(
+                        raw_input=args,
+                        error=error,
+                        user_id=user_id,
+                        group_id=group_id,
+                        extra_details={"cid": profile.cid, "matched_name": profile.name},
+                        reason_action="查询补充资料",
+                    )
+                    data = None
 
             if data:
                 supplement = format_vndb_supplement(profile, data)
@@ -170,13 +211,51 @@ async def _(bot: Bot, matcher: Matcher, event: GroupMessageEvent, args: Message=
                     msg += MessageSegment.text("\n")
                     msg += supplement
 
-            await query_by_name.send(msg)
+            try:
+                await query_by_name.send(msg)
+            except (ActionFailed, ApiNotAvailable, NetworkError) as error:
+                logger.warning(
+                    "VNDB query response send failed: "
+                    f"user_id={user_id}, group_id={group_id}, query={args}, error={repr(error)}"
+                )
+                record_vndb_error(
+                    raw_input=args,
+                    error=error,
+                    user_id=user_id,
+                    group_id=group_id,
+                    extra_details={"matched_name": name},
+                )
+                await query_by_name.finish("查询结果发送失败了，梦美已经把这次报错记下来了。")
         except FinishedException as f:
             return
         except Exception as e:
             #error_info = traceback.format_exc()
             error_info = ""
-            await query_by_name.send(f"查询失败：前方拥堵，请稍后再试")
+            logger.exception(
+                "Character query failed: "
+                f"user_id={user_id}, group_id={group_id}, query={args}, error={repr(e)}"
+            )
+            record_vndb_error(
+                raw_input=args,
+                error=e,
+                user_id=user_id,
+                group_id=group_id,
+                reason_action="角色查询",
+            )
+            try:
+                await query_by_name.send(f"查询失败：前方拥堵，请稍后再试")
+            except (ActionFailed, ApiNotAvailable, NetworkError) as send_error:
+                logger.warning(
+                    "VNDB failure notice send failed: "
+                    f"user_id={user_id}, group_id={group_id}, query={args}, error={repr(send_error)}"
+                )
+                record_vndb_error(
+                    raw_input=args,
+                    error=send_error,
+                    user_id=user_id,
+                    group_id=group_id,
+                    reason_action="查询失败提示发送",
+                )
             #await bot.send_msg(group_id=943858715, message=repr(e)+str(data))
     
    

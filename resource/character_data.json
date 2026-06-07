@@ -1567,9 +1567,11 @@
       "一華百花",
       "Ichige Moka",
       "IchigeMoka",
-      "百花"
+      "百花",
+      "Moka"
     ],
     "game_name": "虹彩都市",
+    "birthday": "4-4",
     "cid": "c133840"
   },
   "总羽爱乃": {
@@ -1578,9 +1580,11 @@
       "総羽愛乃",
       "Fusaba Aino",
       "FusabaAino",
-      "爱乃"
+      "爱乃",
+      "Aino"
     ],
     "game_name": "anemoi",
+    "birthday": "4-14",
     "cid": "c133791",
     "age": "身高145cm；体重39kg；三围73/51/73cm"
   },
@@ -1590,9 +1594,12 @@
       "淡雪陽彩",
       "Awayuki Hiiro",
       "AwayukiHiiro",
-      "阳彩"
+      "阳彩",
+      "陽彩",
+      "Hiiro"
     ],
     "game_name": "anemoi",
+    "birthday": "1-1",
     "cid": "c133789",
     "age": "身高167cm；体重56kg；三围90/60/88cm"
   },
@@ -1602,9 +1609,14 @@
       "白渡小詠",
       "Shirato Koyomi",
       "ShiratoKoyomi",
-      "小咏"
+      "小咏",
+      "小詠",
+      "Koyomi",
+      "ピリカ",
+      "Pirika"
     ],
     "game_name": "anemoi",
+    "birthday": "6-1",
     "cid": "c133788",
     "age": "身高152cm；体重44kg；三围78/56/79cm"
   },
@@ -1615,12 +1627,19 @@
       "Tsujikura Spica",
       "TsujikuraSpica",
       "朱比华",
+      "朱比華",
       "朱比",
+      "Spica",
+      "速川 朱比華",
+      "速川朱比華",
+      "Hayakawa Spica",
+      "HayakawaSpica",
       "铸币华"
     ],
     "game_name": "anemoi",
+    "birthday": "5-25",
     "cid": "c133787",
-    "age": "年龄16；身高148cm；体重40kg；三围74/52/75cm"
+    "age": "身高148cm；体重40kg；三围74/52/75cm"
   },
   "速川六花": {
     "aliases": [
@@ -1628,11 +1647,185 @@
       "速川六花",
       "Hayakawa Rikka",
       "HayakawaRikka",
-      "六花"
+      "六花",
+      "Rikka"
     ],
     "game_name": "anemoi",
+    "birthday": "7-5",
     "cid": "c133790",
     "age": "身高158cm；体重52kg；三围86/58/88cm"
+  },
+  "华押つづら": {
+    "aliases": [
+      "華押 つづら",
+      "華押つづら",
+      "华押 つづら",
+      "Kaou Tsuzura",
+      "KaouTsuzura",
+      "华押",
+      "Tsuzura"
+    ],
+    "game_name": "anemoi",
+    "birthday": "2-3",
+    "cid": "c133823",
+    "age": "身高160cm；体重52kg；三围84/56/86cm"
+  },
+  "尾道文弥": {
+    "aliases": [
+      "尾道 文弥",
+      "尾道文弥",
+      "Onomichi Fumiya",
+      "OnomichiFumiya",
+      "文弥",
+      "Fumiya"
+    ],
+    "game_name": "anemoi",
+    "birthday": "11-23",
+    "cid": "c133828",
+    "age": "身高160cm；体重54kg；三围80/55/80cm"
+  },
+  "敦泽垒": {
+    "aliases": [
+      "敦澤 塁",
+      "敦澤塁",
+      "敦泽塁",
+      "Atsuzawa Rui",
+      "AtsuzawaRui",
+      "垒",
+      "塁",
+      "Rui",
+      "郭泽垒"
+    ],
+    "game_name": "anemoi",
+    "birthday": "10-3",
+    "cid": "c133829",
+    "age": "身高146cm；体重43kg；三围72/52/73cm"
+  },
+  "矿玖琉未": {
+    "aliases": [
+      "鉱 玖琉未",
+      "鉱玖琉未",
+      "Aragane Kurumi",
+      "AraganeKurumi",
+      "玖琉未",
+      "Kurumi"
+    ],
+    "game_name": "anemoi",
+    "birthday": "1-9",
+    "cid": "c133831",
+    "age": "身高164cm；体重55kg；三围90/59/89cm"
+  },
+  "速川麦": {
+    "aliases": [
+      "速川 麦",
+      "速川麦",
+      "Hayakawa Mugi",
+      "HayakawaMugi",
+      "麦",
+      "Mugi"
+    ],
+    "game_name": "anemoi",
+    "birthday": "6-15",
+    "cid": "c138953",
+    "age": "身高173cm；体重66kg"
+  },
+  "河濑千春": {
+    "aliases": [
+      "河瀬 千春",
+      "河瀬千春",
+      "河濑 千春",
+      "Kawase Chiharu",
+      "KawaseChiharu",
+      "河濑",
+      "千春",
+      "Chiharu",
+      "ジョー",
+      "Joe"
+    ],
+    "game_name": "anemoi",
+    "birthday": "10-29",
+    "cid": "c158910",
+    "age": "身高174cm；体重62kg"
+  },
+  "小森健": {
+    "aliases": [
+      "小森 健",
+      "小森健",
+      "Komori Ken",
+      "KomoriKen",
+      "小森",
+      "健",
+      "Ken"
+    ],
+    "game_name": "anemoi",
+    "birthday": "3-22",
+    "cid": "c158911",
+    "age": "身高178cm；体重71kg"
+  },
+  "花山广美": {
+    "aliases": [
+      "花山 広美",
+      "花山広美",
+      "花山广美",
+      "Hanayama Hiromi",
+      "HanayamaHiromi",
+      "广美",
+      "広美",
+      "Hiromi"
+    ],
+    "game_name": "anemoi",
+    "cid": "c159151",
+    "age": "身高155cm；体重48kg"
+  },
+  "敦泽诚": {
+    "aliases": [
+      "敦澤 誠",
+      "敦澤誠",
+      "敦泽誠",
+      "Atsuzawa Makoto",
+      "AtsuzawaMakoto",
+      "诚",
+      "誠",
+      "Makoto"
+    ],
+    "game_name": "anemoi",
+    "cid": "c159261"
+  },
+  "总羽凑": {
+    "aliases": [
+      "総羽 湊",
+      "総羽湊",
+      "Fusaba Minato",
+      "FusabaMinato",
+      "凑",
+      "湊",
+      "Minato"
+    ],
+    "game_name": "anemoi",
+    "cid": "c159300"
+  },
+  "ツミレ": {
+    "aliases": [
+      "Tsumire",
+      "丸子"
+    ],
+    "game_name": "anemoi",
+    "cid": "c159335",
+    "age": "身高25cm；体重1kg"
+  },
+  "速川穗乃夏": {
+    "aliases": [
+      "速川 穂乃夏",
+      "速川穂乃夏",
+      "速川穗乃夏",
+      "Hayakawa Honoka",
+      "HayakawaHonoka",
+      "穗乃夏",
+      "穂乃夏",
+      "Honoka"
+    ],
+    "game_name": "anemoi",
+    "cid": "c168323"
   },
   "东城司": {
     "aliases": [
@@ -1779,7 +1972,7 @@
     "birthday": "9-17",
     "cv": "前川凉子",
     "age": "160cm",
-    "like": "吐槽",
+    "like": "吐槽/月歌",
     "tag": "31A"
   },
   "国见玉": {
