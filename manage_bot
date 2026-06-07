@@ -1,0 +1,32 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SOURCE="${BASH_SOURCE[0]}"
+while [[ -L "$SOURCE" ]]; do
+  DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+  SOURCE="$(readlink "$SOURCE")"
+  case "$SOURCE" in
+    /*) ;;
+    *) SOURCE="$DIR/$SOURCE" ;;
+  esac
+done
+APP_ROOT="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+
+MODE="${YUMEMI_MANAGE_MODE:-}"
+if [[ -z "$MODE" ]]; then
+  if [[ "$(id -un 2>/dev/null || true)" == "yumemi" ]] || [[ "$APP_ROOT" == /home/yumemi/Yumemi-Bot* ]]; then
+    MODE="cloud"
+  else
+    MODE="local"
+  fi
+fi
+
+case "$MODE" in
+  local) exec "$APP_ROOT/tools/manage_bot_local.sh" "$@" ;;
+  cloud) exec "$APP_ROOT/tools/manage_bot_cloud.sh" "$@" ;;
+  *)
+    echo "unknown YUMEMI_MANAGE_MODE: $MODE" >&2
+    echo "use local or cloud" >&2
+    exit 2
+    ;;
+esac

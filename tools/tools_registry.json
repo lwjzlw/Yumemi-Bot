@@ -1,0 +1,153 @@
+﻿{
+  "tools": [
+    {
+      "name": "import-images",
+      "path": "import_temp_images.py",
+      "description": "把 resource/temp 中可按文件夹名或文件名匹配到角色的图片直接导入图库，未匹配/重复图片只报告。",
+      "aliases": [
+        "import",
+        "temp-import"
+      ],
+      "default_args": []
+    },
+    {
+      "name": "flatten-images",
+      "path": "flatten_and_rename_images.py",
+      "description": "把角色目录下的子文件夹图片提到根层，并只对新增/异常命名图片做增量编号。",
+      "aliases": [
+        "flatten",
+        "rename-images"
+      ],
+      "default_args": []
+    },
+    {
+      "name": "check-images",
+      "path": "check_image_folders.py",
+      "description": "检查图库文件夹完整性，并生成报告与 CSV。",
+      "aliases": [
+        "check",
+        "image-check"
+      ],
+      "default_args": []
+    },
+    {
+      "name": "update-images",
+      "path": "update_images_batched.sh",
+      "description": "按 manifest 或全量模式把图库同步到 WSL 仓库并分批 git push。",
+      "aliases": [
+        "push-images",
+        "sync-images"
+      ],
+      "default_args": []
+    },
+    {
+      "name": "image-workflow",
+      "path": "image_update_workflow.sh",
+      "description": "图库维护流程命令：同步 temp、导入、整理、检查，并按 manifest 轻量同步 git 和云端。",
+      "aliases": [
+        "imgwf",
+        "image-update",
+        "cloud-images"
+      ],
+      "default_args": [
+        "help"
+      ]
+    },
+    {
+      "name": "yumemi-imagetools",
+      "path": "yumemi_imagetools.sh",
+      "description": "菜单式图库维护控制台，封装 temp 同步/导入、图库整理、重复图删除、检查、云端同步和 git 操作。",
+      "aliases": [
+        "imagetools",
+        "images-menu"
+      ],
+      "default_args": []
+    },
+    {
+      "name": "normalize-images",
+      "path": "normalize_image_names.py",
+      "description": "直接整理 WSL 图库角色目录，统一命名为 角色名_n.ext；可显式 --dedupe 删除 SHA256 重复图。",
+      "aliases": [
+        "normalize",
+        "renumber-images"
+      ],
+      "default_args": []
+    },
+    {
+      "name": "make-image-folders",
+      "path": "make_image_folders.py",
+      "description": "根据 character_data.json 自动补齐 resource/images 下的角色文件夹。",
+      "aliases": [
+        "mkfolders",
+        "make-folders"
+      ],
+      "default_args": []
+    },
+    {
+      "name": "shuffle-keyprophecy",
+      "path": "shuffle_keyprophecy_txt.py",
+      "description": "打乱 KeyProphecy 的若干 txt 文件，并自动备份。",
+      "aliases": [
+        "shuffle",
+        "shuffle-txt"
+      ],
+      "default_args": []
+    }
+  ],
+  "workflows": [
+    {
+      "name": "images-import",
+      "description": "从 Windows temp 同步到 WSL，然后直接导入可匹配图片；未匹配/重复图片只报告。",
+      "steps": [
+        {
+          "tool": "image-workflow",
+          "args": [
+            "sync-temp"
+          ]
+        },
+        {
+          "tool": "image-workflow",
+          "args": [
+            "import"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "images-organize-check",
+      "description": "整理图库中真正需要处理的角色，然后生成检查报告。",
+      "steps": [
+        {
+          "tool": "image-workflow",
+          "args": [
+            "organize"
+          ]
+        },
+        {
+          "tool": "image-workflow",
+          "args": [
+            "check"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "images-cloud-git-stage",
+      "description": "只把 manifest 涉及角色同步到云端，并暂存对应 Git 改动。",
+      "steps": [
+        {
+          "tool": "image-workflow",
+          "args": [
+            "cloud"
+          ]
+        },
+        {
+          "tool": "image-workflow",
+          "args": [
+            "git-add"
+          ]
+        }
+      ]
+    }
+  ]
+}
